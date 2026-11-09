@@ -1,0 +1,105 @@
+# Henter boligene fra privatmegleren.no, bygger lenkesiden, tester den og publiserer den.
+# Går hver time fra morgen til kveld, og når noen endrer noe i repoet.
+# Feiler noe, blir forrige versjon av siden liggende, og GitHub sender e-post.
+name: Bygg og publiser
+
+on:
+  schedule:
+    # Klokkeslett i UTC: 05.17–23.17 norsk vintertid, 06.17–00.17 sommertid.
+    - cron: "17 4-22 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: lenkesiden
+  cancel-in-progress: false
+
+jobs:
+  bygg:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    outputs:
+      feed: ${{ steps.feed.outputs.kode }}
+      gammel: ${{ steps.status.outputs.gammel }}
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Installer verktøy
+        run: |
+          pip install -r requirements.txt
+          python -m playwright install --with-deps --only-shell chromium
+
+      - name: Hent boliger fra privatmegleren.no
+        id: feed
+        run: |
+          set +e
+          python scripts/fetch_feed.py
+          kode=$?
+          echo "kode=$kode" >> "$GITHUB_OUTPUT"
+          if [ "$kode" != "0" ]; then
+            echo "::warning::Fikk ikke hentet nye boliger (kode $kode). Bygger med siste gode data."
+          fi
+
+      - name: Finn adressen til siden
+        id: pages
+        uses: actions/configure-pages@v6
+
+      - name: Gjenbruk bilder fra forrige bygg
+        uses: actions/cache@v6
+        with:
+          path: .cache/img
+          key: bilder-${{ github.run_id }}
+          restore-keys: bilder-
+
+      - name: Bygg siden
+        env:
+          SITE_URL: ${{ steps.pages.outputs.base_url }}
+        run: python scripts/build.py
+
+      - name: Test siden
+        run: python tests/test_site.py
+
+      - name: Sjekk hvor ferske dataene er
+        id: status
+        run: |
+          python -c "import json; s=json.load(open('site/status.json')); print('gammel=' + ('ja' if s['feed_stale'] else 'nei'))" >> "$GITHUB_OUTPUT"
+
+      - name: Lagre nye boligdata i repoet
+        if: steps.feed.outputs.kode == '0' && github.ref == 'refs/heads/main'
+        run: python scripts/commit_data.py
+
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: site
+
+  publiser:
+    needs: bygg
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - id: deploy
+        uses: actions/deploy-pages@v5
+
+  varsle:
+    # Siden er publisert med siste gode data, men de er for gamle. Feiler med vilje, så GitHub sender e-post.
+    needs: [bygg, publiser]
+    if: needs.bygg.outputs.gammel == 'ja'
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          echo "::error::Har ikke klart å hente boliger fra privatmegleren.no på flere timer (siste kode ${{ needs.bygg.outputs.feed }}). Siden viser eldre data. Se README, «Når noe feiler»."
+          exit 1

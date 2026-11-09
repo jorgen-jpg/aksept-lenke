@@ -1,0 +1,3042 @@
+{
+ "fetched_at": "2026-11-09T16:25:47+00:00",
+ "source": "https://privatmegleren.no/aksept",
+ "total_for_sale": 70,
+ "for_sale": [
+  {
+   "estateId": "3851576",
+   "assignmentNumber": "92250652",
+   "type": "Leilighet",
+   "ownershipType": "Eier (Selveier)",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Sandakerveien 137B",
+   "localArea": "Nydalen",
+   "municipalityArea": "Sagene-Torshov",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-11-09T13:28:00.000Z",
+   "prices": {
+    "askingPrice": 3875000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 30,
+    "grossInternalAreaTo": null,
+    "usableArea": 30,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://rt-gateway.reeltime.no/proxy/webmegler/120/3851576/wngetbilde.ashx?/abilde/k120/f%5Cbilder%5C2026%5C36%5C11%5C12801061_1-ekdzcb1.jpg&v=1",
+    "https://rt-gateway.reeltime.no/proxy/webmegler/120/3851576/wngetbilde.ashx?/abilde/k120/f%5Cbilder%5C2026%5C36%5C11%5C12801044_1-fnyexb1.jpg&v=1",
+    "https://rt-gateway.reeltime.no/proxy/webmegler/120/3851576/wngetbilde.ashx?/abilde/k120/f%5Cbilder%5C2026%5C36%5C11%5C12801065_1-obnsgb1.jpg&v=1",
+    "https://rt-gateway.reeltime.no/proxy/webmegler/120/3851576/wngetbilde.ashx?/abilde/k120/f%5Cbilder%5C2026%5C36%5C11%5C12801067_1-tznqrb1.jpg&v=1"
+   ]
+  },
+  {
+   "estateId": "140557",
+   "assignmentNumber": "92260601",
+   "type": "Leilighet",
+   "ownershipType": "Andel",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Sofies gate 29",
+   "localArea": "Bislett / St. Hanshaugen",
+   "municipalityArea": "St. Hanshaugen - Ullevål",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-11-08T18:54:07.031Z",
+   "prices": {
+    "askingPrice": 6000000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 66,
+    "grossInternalAreaTo": null,
+    "usableArea": 82,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/11/vertical-2/08/1/480/329/181_014fece1-8b8c-4a63-a545-8958f903c09a.png",
+    "https://images.finncdn.no/dynamic/1600w/2026/11/vertical-2/05/1/480/329/181_752af7a2-7c8b-4a23-9d43-a7dd578f75b4.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/11/vertical-2/08/1/480/329/181_2c22e344-c830-4d70-8009-735b77fd33fa.png",
+    "https://images.finncdn.no/dynamic/1600w/2026/11/vertical-2/05/1/480/329/181_0eb79ef0-67cd-47e4-8f6e-7fa17b10c86a.jpg"
+   ]
+  },
+  {
+   "estateId": "131661",
+   "assignmentNumber": "92260472",
+   "type": "Leilighet",
+   "ownershipType": "Aksje",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Fuglehauggata 10",
+   "localArea": "Vestkanttorget v/ Frognerparken",
+   "municipalityArea": "Bygdøy - Frogner",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-11-08T18:45:03.644Z",
+   "prices": {
+    "askingPrice": 8175000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 71,
+    "grossInternalAreaTo": null,
+    "usableArea": 82,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/11/vertical-2/06/4/480/395/074_6ceb2cbf-be83-4ce2-ab30-3f07281d6036.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/11/vertical-2/06/4/480/395/074_cd48618f-a601-4c48-a2e5-4c73dbdb7908.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/11/vertical-2/06/4/480/395/074_13a20f92-3cf4-4409-af24-967c2ec62781.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/11/vertical-2/06/4/480/395/074_bba8b5f0-6ed3-47e2-9260-cf31ed2f17db.jpg"
+   ]
+  },
+  {
+   "estateId": "141742",
+   "assignmentNumber": "92260588",
+   "type": "Leilighet",
+   "ownershipType": "Eier (Selveier)",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Elsters gate 2",
+   "localArea": "Tilbaketrukket på Majorstuen",
+   "municipalityArea": "Uranienborg - Majorstuen",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-11-08T18:33:23.286Z",
+   "prices": {
+    "askingPrice": 9900000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 68,
+    "grossInternalAreaTo": null,
+    "usableArea": 68,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/11/vertical-2/04/0/480/291/140_f85670cb-0efe-434d-98c3-02a4e4230936.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/11/vertical-2/04/0/480/291/140_e987b2f8-8d9e-41ae-8086-9f948964f48d.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/11/vertical-2/04/0/480/291/140_35f18e41-d122-458d-8a74-cb781cc477c1.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/11/vertical-2/04/0/480/291/140_a3fd58d7-709b-4824-95f9-d1f040e8f82b.jpg"
+   ]
+  },
+  {
+   "estateId": "140983",
+   "assignmentNumber": "92260570",
+   "type": "Leilighet",
+   "ownershipType": "Andel",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Carl Jeppesens gate 20",
+   "localArea": "FUNKISGÅRDEN PÅ TORSHOV",
+   "municipalityArea": "Sagene - Torshov",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-11-08T17:30:47.308Z",
+   "prices": {
+    "askingPrice": 5250000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 52,
+    "grossInternalAreaTo": null,
+    "usableArea": 59,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://rt-gateway.reeltime.no/proxy/webtop/pm/140983/image/0c9de104-1cee-4bc1-9a94-2cd670df9ada/Large",
+    "https://rt-gateway.reeltime.no/proxy/webtop/pm/140983/image/f0940cfa-e9be-451b-9783-32201ef33ddc/Large",
+    "https://rt-gateway.reeltime.no/proxy/webtop/pm/140983/image/fece9aec-c3f4-47e0-9765-2e451757473e/Large",
+    "https://rt-gateway.reeltime.no/proxy/webtop/pm/140983/image/2392f864-d148-4252-abc1-a7b104e860a7/Large"
+   ]
+  },
+  {
+   "estateId": "138145",
+   "assignmentNumber": "92260549",
+   "type": "Leilighet",
+   "ownershipType": "Andel",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Thereses gate 26 A",
+   "localArea": "Skjermet på Bislett",
+   "municipalityArea": "St. Hanshaugen - Ullevål",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-11-08T17:14:30.729Z",
+   "prices": {
+    "askingPrice": 6960000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 65,
+    "grossInternalAreaTo": null,
+    "usableArea": 79,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/11/vertical-2/08/2/480/352/682_a9d79b24-94fa-4c0d-8982-c19c8eab26d9.png",
+    "https://images.finncdn.no/dynamic/1600w/2026/11/vertical-2/08/2/480/352/682_8c2b54c2-21dc-461c-b238-071699948fe2.png",
+    "https://images.finncdn.no/dynamic/1600w/2026/11/vertical-2/05/2/480/352/682_fbabf29d-06ff-4b64-a5ef-71107ae567c6.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/11/vertical-2/05/2/480/352/682_04be34f5-9e39-4d9a-afc8-a54737fab946.jpg"
+   ]
+  },
+  {
+   "estateId": "110694",
+   "assignmentNumber": "92260609",
+   "type": "Leilighet",
+   "ownershipType": "Andel",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Geitmyrsveien 66",
+   "localArea": "Idylliske Lindern Hageby",
+   "municipalityArea": "St. Hanshaugen - Ullevål",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-11-08T16:21:47.607Z",
+   "prices": {
+    "askingPrice": 12750000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 90,
+    "grossInternalAreaTo": null,
+    "usableArea": 96,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/11/vertical-2/07/6/480/476/586_93081f1d-f2be-4524-bd75-9691d65beaf5.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/11/vertical-2/08/6/480/476/586_cbed02d3-7427-4c88-9019-760a5291fe71.png",
+    "https://images.finncdn.no/dynamic/1600w/2026/11/vertical-2/07/6/480/476/586_df5e60c1-47f9-45a1-868a-02cf653fb93c.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/11/vertical-2/08/6/480/476/586_56b58a1d-0e95-459c-8b34-3e4dbee798e7.jpg"
+   ]
+  },
+  {
+   "estateId": "141321",
+   "assignmentNumber": "92260576",
+   "type": "Enebolig",
+   "ownershipType": "Eier (Selveier)",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Jens Bjelkes gate 2 B",
+   "localArea": "Grunerløkka",
+   "municipalityArea": "Grünerløkka - Sofienberg",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-11-08T07:59:41.151Z",
+   "prices": {
+    "askingPrice": 9250000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 83,
+    "grossInternalAreaTo": null,
+    "usableArea": 85,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/19/0/479/089/170_30eb1f98-84e5-432f-ae52-b404b0a9bfdc.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/19/0/479/089/170_8449ca24-b617-45a9-948a-eda20461dd2c.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/19/0/479/089/170_c70f5b98-e23c-4a56-88f1-6308c6656de4.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/19/0/479/089/170_cd569a99-de41-45c9-95d5-a83e00f99272.jpg"
+   ]
+  },
+  {
+   "estateId": "142168",
+   "assignmentNumber": "92260600",
+   "type": "Leilighet",
+   "ownershipType": "Eier (Selveier)",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Schwachs gate 3",
+   "localArea": "Majorstuen / Fagerborg",
+   "municipalityArea": "Uranienborg - Majorstuen",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-11-07T19:26:53.939Z",
+   "prices": {
+    "askingPrice": 11200000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 102,
+    "grossInternalAreaTo": null,
+    "usableArea": 127,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/11/vertical-2/06/8/480/388/708_a30dbd7a-2ac9-4949-9858-f6c6043c5323.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/11/vertical-2/06/8/480/388/708_50212004-34a6-468a-8700-ffd55ed46df4.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/11/vertical-2/06/8/480/388/708_91885e06-4dff-4b3f-8ff0-5cafdd9727af.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/11/vertical-2/07/8/480/388/708_4a19d80a-4909-4b1b-98fa-ab6f97f2883c.png"
+   ]
+  },
+  {
+   "estateId": "123690",
+   "assignmentNumber": "92260374",
+   "type": "Leilighet",
+   "ownershipType": "Eier (Selveier)",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Parkveien 4 B",
+   "localArea": "Vendt mot indre gårdsrom",
+   "municipalityArea": "Uranienborg - Majorstuen",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-11-07T09:11:40.166Z",
+   "prices": {
+    "askingPrice": 7990000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 76,
+    "grossInternalAreaTo": null,
+    "usableArea": 85,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/8/vertical-2/26/3/474/709/413_f1a8638a-6977-41ae-b624-9e3528de201e.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/8/vertical-2/26/3/474/709/413_34f6e0c0-da2b-467c-b65b-12c519d90579.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/8/vertical-2/26/3/474/709/413_fc0dac3b-83d6-4ece-84e6-f9186326dd91.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/8/vertical-2/26/3/474/709/413_fa188eae-33d5-44ce-aa9c-c169f8fd6214.jpg"
+   ]
+  },
+  {
+   "estateId": "102870",
+   "assignmentNumber": "92260582",
+   "type": "Leilighet",
+   "ownershipType": "Eier (Selveier)",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Marselis' gate 35 B",
+   "localArea": "Rett ved Akerselva",
+   "municipalityArea": "Grünerløkka - Sofienberg",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-11-06T11:02:21.692Z",
+   "prices": {
+    "askingPrice": 8750000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 70,
+    "grossInternalAreaTo": null,
+    "usableArea": 79,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/23/6/479/289/756_f1ccaac9-a568-46bc-9dc1-9ec8ace12269.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/22/6/479/289/756_05c75c7b-6010-44d8-8cac-4db755a279e3.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/22/6/479/289/756_407d6762-d5e5-4b06-b453-baf0b25d2cf0.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/23/6/479/289/756_d39bac81-7296-473f-b902-0fd29fcf4a3d.jpg"
+   ]
+  },
+  {
+   "estateId": "134001",
+   "assignmentNumber": "92260488",
+   "type": "Leilighet",
+   "ownershipType": "Andel",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Kåre B. Werners gate 10",
+   "localArea": "Finstadjordet / Lørenskog",
+   "municipalityArea": "",
+   "municipalityName": "Lørenskog",
+   "postalPlace": "Finstadjordet",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-11-06T10:35:24.736Z",
+   "prices": {
+    "askingPrice": 1890000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 37,
+    "grossInternalAreaTo": null,
+    "usableArea": 41,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/11/2/476/134/292_9a9f23b3-2bea-4f45-8649-8833b7b17991.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/11/2/476/134/292_ffff1e40-5c13-4f0d-ba74-1726d5a951e7.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/11/2/476/134/292_51f988ad-3917-4853-9dff-09bd1c7de860.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/11/2/476/134/292_e14c53c6-b18c-4d78-a0a4-d88a87efa9d4.jpg"
+   ]
+  },
+  {
+   "estateId": "129811",
+   "assignmentNumber": "92260437",
+   "type": "Leilighet",
+   "ownershipType": "Annet",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Frimanns gate 26B",
+   "localArea": "St. Hanshaugen",
+   "municipalityArea": "St. Hanshaugen - Ullevål",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-11-03T15:27:18.177Z",
+   "prices": {
+    "askingPrice": 12650000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 112,
+    "grossInternalAreaTo": null,
+    "usableArea": 112,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/05/4/475/592/884_d102f5eb-499b-4c26-8d40-baf5a753ee8c.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/05/4/475/592/884_bdd8bb6c-a570-402a-ab2e-a85c495bbfec.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/05/4/475/592/884_c95eff83-5ea0-453a-a579-4acd2f048a50.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/05/4/475/592/884_8b095da6-8722-4c2a-ae8b-356ffb76772f.jpg"
+   ]
+  },
+  {
+   "estateId": "140145",
+   "assignmentNumber": "92260564",
+   "type": "Leilighet",
+   "ownershipType": "Eier (Selveier)",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Welhavens gate 9 A",
+   "localArea": "Homansbyen",
+   "municipalityArea": "Uranienborg - Majorstuen",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-11-01T18:03:14.209Z",
+   "prices": {
+    "askingPrice": 4490000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 37,
+    "grossInternalAreaTo": null,
+    "usableArea": 40,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/31/9/479/996/639_781f3a56-8d69-43af-811a-5eabcdb55a75.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/31/9/479/996/639_d7bf02b7-c034-42d4-80ad-3905d255354a.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/31/9/479/996/639_c9f05eb1-74a0-45d6-a705-d4b98365fbe4.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/31/9/479/996/639_d822e791-5aef-4f69-bf1b-0ad5508893c3.jpg"
+   ]
+  },
+  {
+   "estateId": "139799",
+   "assignmentNumber": "92260556",
+   "type": "Leilighet",
+   "ownershipType": "Andel",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Kongsvingergata 9 E",
+   "localArea": "I hjertet av Sagene",
+   "municipalityArea": "Sagene - Torshov",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-11-01T17:58:45.912Z",
+   "prices": {
+    "askingPrice": 4500000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 38,
+    "grossInternalAreaTo": null,
+    "usableArea": 50,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/31/9/479/986/249_457ffcb5-d272-4637-a693-ed67765df1c2.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/31/9/479/986/249_6fd92ac6-a122-4969-a902-68961606e584.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/31/9/479/986/249_f0500f2c-caea-42fb-a17c-9848223dcdf1.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/31/9/479/986/249_aed63231-bee0-4137-9157-10b0b69d73c3.jpg"
+   ]
+  },
+  {
+   "estateId": "139315",
+   "assignmentNumber": "92260557",
+   "type": "Leilighet",
+   "ownershipType": "Andel",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Darres gate 4",
+   "localArea": "Waldemars Tårn!",
+   "municipalityArea": "St. Hanshaugen - Ullevål",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-11-01T17:53:57.932Z",
+   "prices": {
+    "askingPrice": 9700000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 89,
+    "grossInternalAreaTo": null,
+    "usableArea": 98,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/28/8/479/809/728_d87767bc-aa03-4835-b4e8-efcca2111a16.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/28/8/479/809/728_92c3b954-68e9-4af8-a508-a1cb39a4a253.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/28/8/479/809/728_e5aa16b6-f30b-4928-a777-fe7ed7c78e57.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/28/8/479/809/728_2cdc496b-8795-49d6-a561-f773a6a5efe0.jpg"
+   ]
+  },
+  {
+   "estateId": "3838001",
+   "assignmentNumber": "92250292",
+   "type": "Leilighet",
+   "ownershipType": "Andel",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Waldemar Thranes gate 57, leilighet 204",
+   "localArea": "St. Hanshaugen",
+   "municipalityArea": "St. Hanshaugen",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-10-31T14:07:00.000Z",
+   "prices": {
+    "askingPrice": 3190000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 21,
+    "grossInternalAreaTo": null,
+    "usableArea": 24,
+    "usableAreaTo": null,
+    "primaryArea": 21,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://rt-gateway.reeltime.no/proxy/webmegler/120/3838001/wngetbilde.ashx?/abilde/k120/f%5Cbilder%5C2025%5C36%5C7%5C12567960_1-kxepcb1.jpg&v=1",
+    "https://rt-gateway.reeltime.no/proxy/webmegler/120/3838001/wngetbilde.ashx?/abilde/k120/f%5Cbilder%5C2025%5C36%5C7%5C12564793_2-uxreab1.jpg&v=1",
+    "https://rt-gateway.reeltime.no/proxy/webmegler/120/3838001/wngetbilde.ashx?/abilde/k120/f%5Cbilder%5C2025%5C36%5C7%5C12564795_1-owrotb1.jpg&v=1",
+    "https://rt-gateway.reeltime.no/proxy/webmegler/120/3838001/wngetbilde.ashx?/abilde/k120/f%5Cbilder%5C2025%5C36%5C7%5C12564321_1-fyqcub1.jpg&v=1"
+   ]
+  },
+  {
+   "estateId": "3827157",
+   "assignmentNumber": "92250280",
+   "type": "Leilighet",
+   "ownershipType": "Eier (Selveier)",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Camilla Colletts vei 7",
+   "localArea": "Privat og tilbaketrukket på Frogner",
+   "municipalityArea": "Bygdøy-Frogner",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-10-31T13:54:00.000Z",
+   "prices": {
+    "askingPrice": 10200000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 101,
+    "grossInternalAreaTo": null,
+    "usableArea": 109,
+    "usableAreaTo": null,
+    "primaryArea": 97,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/13/2/408/161/092_2cc894d3-843f-4ee8-b615-45c1353266ac.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/13/2/408/161/092_4d2f7eea-b35f-465b-a76b-9eaf2a3164bd.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/13/2/408/161/092_6239a478-6319-4353-9eb0-f4afd7e82fc5.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/13/2/408/161/092_52f02500-583d-472b-ba63-dda7646e9a7c.jpg"
+   ]
+  },
+  {
+   "estateId": "142210",
+   "assignmentNumber": "92260586",
+   "type": "Leilighet",
+   "ownershipType": "Eier (Selveier)",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Dops gate 6",
+   "localArea": "Damstredet / St. Hanshaugen",
+   "municipalityArea": "St. Hanshaugen - Ullevål",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-10-30T16:47:37.396Z",
+   "prices": {
+    "askingPrice": 7300000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 70,
+    "grossInternalAreaTo": null,
+    "usableArea": 70,
+    "usableAreaTo": null,
+    "primaryArea": 70,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/30/1/479/917/951_d7f0ef06-3671-4aae-b5c5-81b8759bfd45.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/30/1/479/917/951_962d5461-8b46-46ef-8e1a-cfc6d2e06f58.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/30/1/479/917/951_028a734f-1c39-453f-94fa-45fc6a9f8f1b.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/30/1/479/917/951_1be984c4-0e5e-408c-b6c4-75f730ed9769.jpg"
+   ]
+  },
+  {
+   "estateId": "141383",
+   "assignmentNumber": "92260578",
+   "type": "Leilighet",
+   "ownershipType": "Eier (Selveier)",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Geitmyrsveien 7 D",
+   "localArea": "St. Hanshaugen",
+   "municipalityArea": "St. Hanshaugen - Ullevål",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-10-30T14:49:25.963Z",
+   "prices": {
+    "askingPrice": 14600000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 72,
+    "grossInternalAreaTo": null,
+    "usableArea": 78,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/30/9/479/910/559_97d2fdc8-ddd8-4929-8205-303e73527d1f.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/30/9/479/910/559_0ad3c3bd-2ea6-43a6-8ad5-2da4d7ddde57.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/30/9/479/910/559_71de2a17-2faf-4531-8067-6308cc9f9baf.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/30/9/479/910/559_d2c466d8-2b0d-470a-b1cb-e9534d34e3a2.jpg"
+   ]
+  },
+  {
+   "estateId": "3845823",
+   "assignmentNumber": "92250507",
+   "type": "Enebolig",
+   "ownershipType": "Eier (Selveier)",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Bråtanveien 9A",
+   "localArea": "Utsikt i Drøbak",
+   "municipalityArea": "Frogn - Sogsti",
+   "municipalityName": "Frogn",
+   "postalPlace": "Drøbak",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-10-30T13:24:00.000Z",
+   "prices": {
+    "askingPrice": 14600000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 299,
+    "grossInternalAreaTo": null,
+    "usableArea": 339,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/8/vertical-2/21/7/464/515/107_993de56f-d2c4-46a4-8b5c-276aba2b0ceb.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/8/vertical-2/21/7/464/515/107_c963d701-9051-406e-aea5-19b5a3015042.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/8/vertical-2/21/7/464/515/107_95878bc9-04a5-406a-b5d5-0c6f1ccbd820.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/8/vertical-2/21/7/464/515/107_c6e0e7dd-988a-4888-bcd7-7420de62826b.jpg"
+   ]
+  },
+  {
+   "estateId": "110415",
+   "assignmentNumber": "92260262",
+   "type": "Leilighet",
+   "ownershipType": "Eier (Selveier)",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Leiv Eirikssons gate 5",
+   "localArea": "Skillebekk/Frogner",
+   "municipalityArea": "Bygdøy - Frogner",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-10-30T09:06:30.168Z",
+   "prices": {
+    "askingPrice": 11690000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 114,
+    "grossInternalAreaTo": null,
+    "usableArea": 123,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/30/9/473/295/479_16e1c070-00cf-4cf4-91a8-2542c59af183.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/8/vertical-2/14/9/473/295/479_8008e943-2e25-4286-9666-d0d94901dfaf.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/8/vertical-2/14/9/473/295/479_601b53cf-4ddf-4502-8c3c-f96d3f8e39d0.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/30/9/473/295/479_2cd329b5-789c-427b-b80d-ee1ddfb0614f.jpg"
+   ]
+  },
+  {
+   "estateId": "96085",
+   "assignmentNumber": "92251014",
+   "type": "Leilighet",
+   "ownershipType": "Eier (Selveier)",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Sandakerveien 74A",
+   "localArea": "Sandaker/Storo",
+   "municipalityArea": "Sagene - Torshov",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-10-30T07:55:58.455Z",
+   "prices": {
+    "askingPrice": 7250000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 72,
+    "grossInternalAreaTo": null,
+    "usableArea": 77,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/30/3/448/640/173_2222140d-ba85-4761-b19f-fad968d68249.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/1/vertical-2/30/3/448/640/173_12f25739-b3f2-4125-b003-8dfaf91d819e.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/30/3/448/640/173_b923a826-8cc8-4a2f-9f44-9139009cbd09.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/30/3/448/640/173_00e52857-adb9-4f41-b34b-2f3daf0f4ce5.jpg"
+   ]
+  },
+  {
+   "estateId": "139098",
+   "assignmentNumber": "92260562",
+   "type": "Leilighet",
+   "ownershipType": "Aksje",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Bjerregaards gate 56 F",
+   "localArea": "St. Hanshaugen",
+   "municipalityArea": "St. Hanshaugen - Ullevål",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-10-28T16:02:03.963Z",
+   "prices": {
+    "askingPrice": 7100000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 78,
+    "grossInternalAreaTo": null,
+    "usableArea": 85,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/22/3/479/291/273_889388c5-089a-4f79-bd54-b93aab968a7d.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/22/3/479/291/273_be31fb13-6667-4779-acd9-8386d5901320.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/22/3/479/291/273_4889e01c-c27d-4196-bff1-2586ca68fb7f.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/22/3/479/291/273_550b79c2-4c57-43eb-a7bd-d7974828c657.jpg"
+   ]
+  },
+  {
+   "estateId": "136065",
+   "assignmentNumber": "92260543",
+   "type": "Leilighet",
+   "ownershipType": "Eier (Selveier)",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Silurveien 13",
+   "localArea": "Ullern",
+   "municipalityArea": "Ullern",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-10-26T10:50:23.269Z",
+   "prices": {
+    "askingPrice": 4290000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 55,
+    "grossInternalAreaTo": null,
+    "usableArea": 60,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/25/6/479/373/276_bff971bb-5e2b-4eb3-abd2-00dfefac9af6.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/25/6/479/373/276_a7397405-1de7-4111-add5-3ace253dc5e7.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/25/6/479/373/276_93d95c40-1d14-4115-b300-6609cb3545aa.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/25/6/479/373/276_35d9c882-46dd-4736-89a1-8926dfe951bf.jpg"
+   ]
+  },
+  {
+   "estateId": "132246",
+   "assignmentNumber": "92260458",
+   "type": "Leilighet",
+   "ownershipType": "Eier (Selveier)",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Thereses gate 22 C",
+   "localArea": "Klassisk drøm på Bislett",
+   "municipalityArea": "St. Hanshaugen - Ullevål",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-10-25T18:33:34.169Z",
+   "prices": {
+    "askingPrice": 12500000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 136,
+    "grossInternalAreaTo": null,
+    "usableArea": 146,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/22/4/479/338/094_f7090b40-a938-487e-a50a-e5ed3c261972.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/22/4/479/338/094_bb2ddbab-f310-4955-924a-b62d371dce21.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/22/4/479/338/094_5093f770-620a-4180-b505-c84a18e648bd.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/22/4/479/338/094_994d1e81-8206-407b-8c8b-a999f2b1f8df.jpg"
+   ]
+  },
+  {
+   "estateId": "112222",
+   "assignmentNumber": "92260204",
+   "type": "Leilighet",
+   "ownershipType": "Andel",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Wessels gate 11D",
+   "localArea": "Tilbaketrukket på St. Hanshaugen",
+   "municipalityArea": "St. Hanshaugen - Ullevål",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-10-25T18:13:40.197Z",
+   "prices": {
+    "askingPrice": 6350000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 66,
+    "grossInternalAreaTo": null,
+    "usableArea": 66,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/25/7/461/581/467_b71f8feb-8ff3-4bae-9432-b6d4fdb02200.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/8/vertical-2/04/7/461/581/467_0164c7a2-5c7c-441d-875b-5e6fd36383df.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/25/7/461/581/467_bedb52a8-00cc-4447-8e57-22f53e312e48.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/25/7/461/581/467_435b4660-ef73-452c-8041-09722c8db8c1.jpg"
+   ]
+  },
+  {
+   "estateId": "137955",
+   "assignmentNumber": "92260569",
+   "type": "Leilighet",
+   "ownershipType": "Eier (Selveier)",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Neuberggata 19 A",
+   "localArea": "Vestkanttorget",
+   "municipalityArea": "Uranienborg - Majorstuen",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-10-25T18:08:19.599Z",
+   "prices": {
+    "askingPrice": 5800000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 53,
+    "grossInternalAreaTo": null,
+    "usableArea": 56,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/24/7/479/470/707_cc65508e-853c-4e81-a431-457f11e73c49.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/24/7/479/470/707_6a194d2f-7cd2-412f-8c53-c40dc78eac98.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/24/7/479/470/707_5933386f-f4f9-4986-ab6a-e709cd77ceef.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/24/7/479/470/707_93168573-465a-45e6-aa1b-7a08f586f0a8.jpg"
+   ]
+  },
+  {
+   "estateId": "136129",
+   "assignmentNumber": "92260520",
+   "type": "Leilighet",
+   "ownershipType": "Eier (Selveier)",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Hans Nielsen Hauges gate 29 D",
+   "localArea": "ØVRE TORSHOV",
+   "municipalityArea": "Sagene - Torshov",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-10-25T18:00:23.917Z",
+   "prices": {
+    "askingPrice": 11650000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 84,
+    "grossInternalAreaTo": null,
+    "usableArea": 91,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/02/7/477/820/107_a8c95837-f04e-4488-babc-1bb8e1d3b66f.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/02/7/477/820/107_6998c1e7-1d1b-4115-94b7-b24e2102c7e7.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/02/7/477/820/107_5f967e74-b41b-40b2-94a6-5095b3a0d9a6.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/02/7/477/820/107_f2ea8d33-dd8a-49ab-ae58-cbec1803f7c4.jpg"
+   ]
+  },
+  {
+   "estateId": "133004",
+   "assignmentNumber": "92260470",
+   "type": "Leilighet",
+   "ownershipType": "Eier (Selveier)",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Grenseveien 16",
+   "localArea": "Carl Berner",
+   "municipalityArea": "Sagene - Torshov",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-10-25T09:58:12.043Z",
+   "prices": {
+    "askingPrice": 4990000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 60,
+    "grossInternalAreaTo": null,
+    "usableArea": 64,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/04/5/475/540/225_b08db2d9-5102-44ce-b0b4-6f6924479d7e.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/04/5/475/540/225_0517543f-1b59-4e89-8729-b53efa55eefa.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/04/5/475/540/225_4a7a21eb-dc56-4b08-8d93-e0270104372f.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/04/5/475/540/225_849f9923-2b9b-4118-a279-9da9433c0a96.jpg"
+   ]
+  },
+  {
+   "estateId": "102531",
+   "assignmentNumber": "92260537",
+   "type": "Leilighet",
+   "ownershipType": "Eier (Selveier)",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Hansteens gate 10A",
+   "localArea": "Vika / Frogner",
+   "municipalityArea": "Bygdøy - Frogner",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-10-24T05:51:25.637Z",
+   "prices": {
+    "askingPrice": 11990000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 120,
+    "grossInternalAreaTo": null,
+    "usableArea": 129,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/25/0/478/774/970_a82aa079-13db-4cd6-a6ee-c5a1d7618329.png",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/15/0/478/774/970_2d828ea8-356a-4554-b97e-8895afa5c342.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/15/0/478/774/970_f3e7de59-900d-44d1-b4ed-2d21d122a370.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/25/0/478/774/970_80cdba16-843b-4194-b73a-4f62cf4d6534.png"
+   ]
+  },
+  {
+   "estateId": "140597",
+   "assignmentNumber": "92260568",
+   "type": "Leilighet",
+   "ownershipType": "Eier (Selveier)",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Oscars gate 4",
+   "localArea": "Majorstuen/Bislett",
+   "municipalityArea": "Uranienborg - Majorstuen",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-10-18T15:23:29.486Z",
+   "prices": {
+    "askingPrice": 8850000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 78,
+    "grossInternalAreaTo": null,
+    "usableArea": 85,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/30/0/478/856/940_87291030-e5c9-4ba1-acc9-29c71c90506f.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/16/0/478/856/940_6db45e11-b0b1-4d6c-98df-82249da5b13b.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/30/0/478/856/940_43b22122-76f4-415f-8397-f370b1e247e3.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/16/0/478/856/940_e6e41930-1fea-45c3-87ef-f1e8802069f7.jpg"
+   ]
+  },
+  {
+   "estateId": "133822",
+   "assignmentNumber": "92260500",
+   "type": "Leilighet",
+   "ownershipType": "Eier (Selveier)",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Ullevålsveien 94 B",
+   "localArea": "Tilbaketrukket på Adamstuen",
+   "municipalityArea": "St. Hanshaugen - Ullevål",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-10-16T14:04:00.306Z",
+   "prices": {
+    "askingPrice": 6980000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 50,
+    "grossInternalAreaTo": null,
+    "usableArea": 54,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/11/6/476/111/886_05452d25-15f3-4a0a-9be8-4755da8ec586.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/11/6/476/111/886_0f7c87a5-dce8-4fe9-8c0e-34bf87fbe3cf.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/11/6/476/111/886_538eb2eb-ab33-43cb-a5a2-d6c4c7047364.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/11/6/476/111/886_1e878741-3d9b-4e1d-a8c8-79606550be64.jpg"
+   ]
+  },
+  {
+   "estateId": "136948",
+   "assignmentNumber": "92260554",
+   "type": "Leilighet",
+   "ownershipType": "Eier (Selveier)",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Prinsens gate 8",
+   "localArea": "Sentrum/Posthallen",
+   "municipalityArea": "Oslo Sentrum",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-10-12T07:30:29.177Z",
+   "prices": {
+    "askingPrice": 5950000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 55,
+    "grossInternalAreaTo": null,
+    "usableArea": 60,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/10/2/478/373/742_f55eee6f-04c7-4d47-8ba8-644f24a356b3.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/10/2/478/373/742_368f262d-3384-4447-bf90-d6880a5f7b85.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/10/2/478/373/742_9b7da040-df71-4af2-b89c-e4123b34a928.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/10/2/478/373/742_4ae69329-fb63-4f5d-ac48-cf37478b1064.jpg"
+   ]
+  },
+  {
+   "estateId": "96451",
+   "assignmentNumber": "92251016",
+   "type": "Leilighet",
+   "ownershipType": "Eier (Selveier)",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Torstadåsen 1",
+   "localArea": "Vestre Billingstad",
+   "municipalityArea": "",
+   "municipalityName": "Asker",
+   "postalPlace": "Billingstad",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-10-11T07:15:21.498Z",
+   "prices": {
+    "askingPrice": 3890000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 42,
+    "grossInternalAreaTo": null,
+    "usableArea": 44.3,
+    "usableAreaTo": null,
+    "primaryArea": 41.8,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/3/vertical-2/16/0/441/174/940_1b570112-f7d0-4e36-870e-e5f0b2dcef8d.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/3/vertical-2/16/0/441/174/940_b8807f36-8e6e-4972-b131-c92611c5acf8.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/3/vertical-2/16/0/441/174/940_22896de4-9bcd-479c-83f0-063eb4ac6080.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/3/vertical-2/16/0/441/174/940_aaef5432-cf26-44e9-9992-12ff018f21d4.jpg"
+   ]
+  },
+  {
+   "estateId": "133363",
+   "assignmentNumber": "92260523",
+   "type": "Leilighet",
+   "ownershipType": "Eier (Selveier)",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Dalsbergstien 22 C",
+   "localArea": "Bislett / St. Hanshaugen",
+   "municipalityArea": "St. Hanshaugen - Ullevål",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-10-06T15:14:54.132Z",
+   "prices": {
+    "askingPrice": 5500000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 51,
+    "grossInternalAreaTo": null,
+    "usableArea": 56,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/05/2/478/009/942_b064e907-e745-4cfe-9de8-c640af500e3d.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/05/2/478/009/942_ff878c3e-24f7-4e65-a56c-0fa17d0f84e5.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/05/2/478/009/942_6256c35a-63b1-4c49-b136-4e3294abbdf5.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/05/2/478/009/942_1179d4ad-2454-462f-a0e5-be9939bcdddd.jpg"
+   ]
+  },
+  {
+   "estateId": "123399",
+   "assignmentNumber": "92260355",
+   "type": "Leilighet",
+   "ownershipType": "Eier (Selveier)",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Terningbekk 2",
+   "localArea": "Skillebekk / Frogner",
+   "municipalityArea": "Bygdøy - Frogner",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-10-06T09:30:11.846Z",
+   "prices": {
+    "askingPrice": 7550000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 84,
+    "grossInternalAreaTo": null,
+    "usableArea": 90,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/10/6/476/048/736_e39017d0-0d59-438b-a2be-29a23054f2b7.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/10/6/476/048/736_02da34f8-1f6b-4d32-baac-2f5460463ee2.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/10/6/476/048/736_6083436b-398e-4c10-bf30-dd20ea8310ec.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/10/6/476/048/736_182e7155-3b83-4870-915c-3d20f18cd335.jpg"
+   ]
+  },
+  {
+   "estateId": "131014",
+   "assignmentNumber": "92260447",
+   "type": "Leilighet",
+   "ownershipType": "Eier (Selveier)",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Hoffsveien 65 D",
+   "localArea": "Smestaddammen/Hoff",
+   "municipalityArea": "Ullern",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-10-04T13:08:47.749Z",
+   "prices": {
+    "askingPrice": 7690000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 68,
+    "grossInternalAreaTo": null,
+    "usableArea": 71,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/8/vertical-2/19/5/473/890/945_75da6d3e-c5f0-4a19-a516-e68b4fbb290a.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/8/vertical-2/19/5/473/890/945_7f4b47c1-abf1-4410-be0e-3f34d6f59e35.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/8/vertical-2/19/5/473/890/945_756f9325-6a27-402d-9988-9959b9140794.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/8/vertical-2/19/5/473/890/945_b2e1e9eb-69d6-49ae-aa7a-f01b0a749260.jpg"
+   ]
+  },
+  {
+   "estateId": "103884",
+   "assignmentNumber": "92260522",
+   "type": "Leilighet",
+   "ownershipType": "Eier (Selveier)",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Holmenveien 22B",
+   "localArea": "Fjordutsikt på Vinderen!",
+   "municipalityArea": "Vinderen",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-10-03T12:09:11.592Z",
+   "prices": {
+    "askingPrice": 11490000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 126,
+    "grossInternalAreaTo": null,
+    "usableArea": 126,
+    "usableAreaTo": null,
+    "primaryArea": 126,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/21/4/476/710/944_6e7baf5c-aeb9-4999-ac52-ff4868c1bff6.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/21/4/476/710/944_afc91b32-9a39-4f47-a6a5-5dfb862b59a6.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/01/4/476/710/944_bc562371-2e5a-4841-b1c3-990d875fd49e.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/01/4/476/710/944_a90a4e23-1e6b-4080-9383-99e76beb43b2.jpg"
+   ]
+  },
+  {
+   "estateId": "135541",
+   "assignmentNumber": "92260524",
+   "type": "Enebolig",
+   "ownershipType": "Annet",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Rosenkrantz vei 35 A",
+   "localArea": "NESØYA",
+   "municipalityArea": "",
+   "municipalityName": "Asker",
+   "postalPlace": "Nesøya",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-10-02T17:14:04.843Z",
+   "prices": {
+    "askingPrice": 18200000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 291,
+    "grossInternalAreaTo": null,
+    "usableArea": 291,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/02/1/477/806/521_13e0f7e7-5454-47b2-958f-f5e819396d6a.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/02/1/477/806/521_cf91b70b-de0b-469b-8105-b4d7954e9a52.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/02/1/477/806/521_e6060b42-05ca-4c6d-9d5f-64464fd2c790.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/02/1/477/806/521_76aaad5f-95ce-4f82-a658-ea49ec8184c1.png"
+   ]
+  },
+  {
+   "estateId": "139082",
+   "assignmentNumber": "92260553",
+   "type": "Garasje/Parkering",
+   "ownershipType": "Eier (Selveier)",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Pilestredet Park 38",
+   "localArea": "St. Hanshaugen - Ullevål",
+   "municipalityArea": "St. Hanshaugen - Ullevål",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-10-02T16:43:47.764Z",
+   "prices": {
+    "askingPrice": 650000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": null,
+    "grossInternalAreaTo": null,
+    "usableArea": null,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/02/0/477/801/760_4030bd82-125b-4439-8e43-6f161e67376a.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/02/0/477/801/760_85c7fa6f-9fb1-4a2b-a0de-45a952021a76.jpg"
+   ]
+  },
+  {
+   "estateId": "136431",
+   "assignmentNumber": "92260532",
+   "type": "Leilighet",
+   "ownershipType": "Eier (Selveier)",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Malerhaugveien 20 C",
+   "localArea": "Helsfyr - Sinsen",
+   "municipalityArea": "Helsfyr - Sinsen",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-10-02T13:46:19.263Z",
+   "prices": {
+    "askingPrice": 4750000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 35,
+    "grossInternalAreaTo": null,
+    "usableArea": 38,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/02/4/477/780/094_96978f79-ad83-488d-a9a4-25d6f94d026e.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/02/4/477/780/094_66df96c6-941c-430c-afd3-f27ea8582189.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/02/4/477/780/094_856cd380-2a57-4d73-98c1-ad89571d6d79.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/02/4/477/780/094_e9723092-824c-4e0f-be94-6f6f5f789bf5.jpg"
+   ]
+  },
+  {
+   "estateId": "121452",
+   "assignmentNumber": "92260357",
+   "type": "Leilighet",
+   "ownershipType": "Eier (Selveier)",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Vidars gate 9 A",
+   "localArea": "ADAMSTUEN / BISLETT",
+   "municipalityArea": "St. Hanshaugen - Ullevål",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-10-02T12:05:02.064Z",
+   "prices": {
+    "askingPrice": 8500000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 70,
+    "grossInternalAreaTo": null,
+    "usableArea": 79,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/01/4/477/732/104_ade0e0ec-8607-440d-b705-e72ed19a5216.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/01/4/477/732/104_a4b78867-ceab-419f-b73a-8c675f905454.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/01/4/477/732/104_dd5c204e-9dc1-43e2-8ad0-43ccb30df270.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/01/4/477/732/104_16bceef7-6fd9-4791-bb92-1754a490720e.jpg"
+   ]
+  },
+  {
+   "estateId": "132015",
+   "assignmentNumber": "92260521",
+   "type": "Leilighet",
+   "ownershipType": "Eier (Selveier)",
+   "assignmentType": "Leisure",
+   "isProjectMaster": false,
+   "streetAddress": "Raunsgardfeten 34",
+   "localArea": "Geilo",
+   "municipalityArea": "",
+   "municipalityName": "Hol",
+   "postalPlace": "Geilo",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-09-28T09:15:34.218Z",
+   "prices": {
+    "askingPrice": 3800000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 51,
+    "grossInternalAreaTo": null,
+    "usableArea": 56,
+    "usableAreaTo": null,
+    "primaryArea": 51,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/28/2/477/492/662_fcc8cfc0-55c6-4dd5-a3d4-4cf4acacc723.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/28/2/477/492/662_3d2f7cf6-a856-405e-94f0-06b956728726.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/28/2/477/492/662_ea192778-aea7-44a5-becb-0ae1e6d8762e.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/28/2/477/492/662_c00919ad-f289-4da9-9cbb-0e3cbc6b560d.jpg"
+   ]
+  },
+  {
+   "estateId": "135339",
+   "assignmentNumber": "92260512",
+   "type": "Leilighet",
+   "ownershipType": "Eier (Selveier)",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Tollbugata 13",
+   "localArea": "Kvadraturen",
+   "municipalityArea": "Oslo Sentrum",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-09-25T11:54:06.489Z",
+   "prices": {
+    "askingPrice": 8850000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 91,
+    "grossInternalAreaTo": null,
+    "usableArea": 91,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/21/2/476/998/392_59fec666-d0b2-4296-8510-8853f186e2d7.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/21/2/476/998/392_5a1ce4db-e7e6-4a65-9ea6-1ce4ae6010f5.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/21/2/476/998/392_23cf5baf-d213-4f88-aea2-efb8391756d4.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/25/2/476/998/392_8ef50b4a-e53e-4bf6-b50f-c4ddf6632b92.png"
+   ]
+  },
+  {
+   "estateId": "124554",
+   "assignmentNumber": "92260366",
+   "type": "Hytte",
+   "ownershipType": "Annet",
+   "assignmentType": "Leisure",
+   "isProjectMaster": false,
+   "streetAddress": "Langetjønnvegen 120",
+   "localArea": "",
+   "municipalityArea": "",
+   "municipalityName": "Tinn",
+   "postalPlace": "Rjukan",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-09-25T08:59:51.912Z",
+   "prices": {
+    "askingPrice": 8500000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 132,
+    "grossInternalAreaTo": null,
+    "usableArea": 139,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/8/vertical-2/11/8/472/922/528_6cfc4902-794a-4292-8086-aa8697c11f00.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/8/vertical-2/11/8/472/922/528_2378370f-4d66-4b54-8df7-d638b4be074e.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/8/vertical-2/11/8/472/922/528_5aac090f-1fe4-4e6e-8284-ffc41cc4269d.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/8/vertical-2/11/8/472/922/528_246406d3-d65e-45c2-8d9c-b924b79e05d4.jpg"
+   ]
+  },
+  {
+   "estateId": "116259",
+   "assignmentNumber": "92260237",
+   "type": "Leilighet",
+   "ownershipType": "Eier (Selveier)",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Sorgenfrigata 40 B",
+   "localArea": "Fagerborg / Majorstuen",
+   "municipalityArea": "Uranienborg - Majorstuen",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-09-21T08:22:53.874Z",
+   "prices": {
+    "askingPrice": 13390000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 89,
+    "grossInternalAreaTo": null,
+    "usableArea": 103,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/19/9/476/768/799_2910e8bc-ac9e-4bb6-abfa-2a5ce08cdc1f.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/19/9/476/768/799_d8c7a6f9-3d06-4128-946f-5c2c1f30c1c2.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/19/9/476/768/799_fa8014bc-6883-47b3-b3a7-ac0b79dab247.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/21/9/476/768/799_42a26deb-79d3-4b0e-94a9-e31ee17ad17e.png"
+   ]
+  },
+  {
+   "estateId": "121384",
+   "assignmentNumber": "92260311",
+   "type": "Leilighet",
+   "ownershipType": "Eier (Selveier)",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Bøgata 25 B",
+   "localArea": "KAMPEN",
+   "municipalityArea": "Gamle Oslo",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-09-20T15:37:07.098Z",
+   "prices": {
+    "askingPrice": 6720000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 61,
+    "grossInternalAreaTo": null,
+    "usableArea": 61,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/20/1/463/553/931_d94047fd-e91f-4ba0-8191-0e171d268e23.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/20/1/463/553/931_7e369d4d-6ac1-4b9c-bdc3-45a5c72147dc.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/20/1/463/553/931_147cdde2-4eae-443a-a28d-58ea366a74bf.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/20/1/463/553/931_551ee5d3-771c-4835-9467-5c3f151daf8b.jpg"
+   ]
+  },
+  {
+   "estateId": "3809828",
+   "assignmentNumber": "92240523",
+   "type": "Enebolig",
+   "ownershipType": "Eier (Selveier)",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Margretes vei 11B",
+   "localArea": "Nesøya",
+   "municipalityArea": "Asker-Nesøya",
+   "municipalityName": "Asker",
+   "postalPlace": "Nesøya",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-09-18T14:20:00.000Z",
+   "prices": {
+    "askingPrice": 21990000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 353,
+    "grossInternalAreaTo": null,
+    "usableArea": null,
+    "usableAreaTo": null,
+    "primaryArea": 288,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/13/5/394/944/055_3e4ab179-42e7-4b8f-a5e8-d3dc56894da0.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/13/5/394/944/055_b28c2180-bbc6-445f-be1b-f0b5a8841b91.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/13/5/394/944/055_033aa8cd-9577-4770-a622-5666e0ef8d49.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/13/5/394/944/055_ede3a14c-db96-4fda-931a-e0be600d07b8.jpg"
+   ]
+  },
+  {
+   "estateId": "126103",
+   "assignmentNumber": "92260415",
+   "type": "Leilighet",
+   "ownershipType": "Eier (Selveier)",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Etterstadkroken 5 G",
+   "localArea": "Etterstad",
+   "municipalityArea": "Helsfyr - Sinsen",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-09-13T06:00:59.838Z",
+   "prices": {
+    "askingPrice": 6900000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 76,
+    "grossInternalAreaTo": null,
+    "usableArea": 81,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/8/vertical-2/06/7/472/317/137_a539508c-eb75-4545-ba4d-46fd91ef29aa.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/8/vertical-2/06/7/472/317/137_6b5f07f4-88e4-4697-b8d8-782545fd8b3b.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/8/vertical-2/06/7/472/317/137_3a435bb9-751f-4f3c-985a-542361268615.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/8/vertical-2/06/7/472/317/137_429ae1aa-e05c-4f5e-ae6d-919fb00281f1.jpg"
+   ]
+  },
+  {
+   "estateId": "3658416",
+   "assignmentNumber": "92230603",
+   "type": "Leilighet",
+   "ownershipType": "Andel",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Nye Vakås vei 52B",
+   "localArea": "Hvalstad",
+   "municipalityArea": "Asker-Hvalstad",
+   "municipalityName": "Asker",
+   "postalPlace": "Hvalstad",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-09-10T12:20:00.000Z",
+   "prices": {
+    "askingPrice": 7500000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 89,
+    "grossInternalAreaTo": null,
+    "usableArea": null,
+    "usableAreaTo": null,
+    "primaryArea": 86,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/4/vertical-2/12/8/337/726/118_a4d7a72c-abe8-478e-b48c-178be6aa6ed8.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/4/vertical-2/12/8/337/726/118_9f3438ac-1932-48cc-a0fd-bc43b6a8c415.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/4/vertical-2/12/8/337/726/118_766b6adf-ce70-4134-9f6d-52fe875663a8.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/4/vertical-2/12/8/337/726/118_5651bc07-1d2f-4cde-99ae-398c9bb382a3.jpg"
+   ]
+  },
+  {
+   "estateId": "128155",
+   "assignmentNumber": "92260417",
+   "type": "Leilighet",
+   "ownershipType": "Eier (Selveier)",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Stensberggata 17 A",
+   "localArea": "St. Hanshaugen",
+   "municipalityArea": "St. Hanshaugen - Ullevål",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-08-23T06:55:39.405Z",
+   "prices": {
+    "askingPrice": 13750000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 108,
+    "grossInternalAreaTo": null,
+    "usableArea": 111,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/8/vertical-2/18/3/473/753/213_379ac9d0-62c5-47d9-b860-e4da46753466.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/8/vertical-2/18/3/473/753/213_9d421943-c476-4e8b-98eb-d720287f95ff.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/8/vertical-2/18/3/473/753/213_498f78ee-7de4-4900-8da9-97123f236186.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/8/vertical-2/18/3/473/753/213_66f2df8d-e767-4687-b2bc-b7afc7db8497.jpg"
+   ]
+  },
+  {
+   "estateId": "3840582",
+   "assignmentNumber": "92250520",
+   "type": "Enebolig",
+   "ownershipType": "Eier (Selveier)",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Ridder Flemmings vei 18",
+   "localArea": "Nesøya",
+   "municipalityArea": "Asker-Nesøya",
+   "municipalityName": "Asker",
+   "postalPlace": "Nesøya",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-08-21T19:24:00.000Z",
+   "prices": {
+    "askingPrice": 17500000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": null,
+    "grossInternalAreaTo": null,
+    "usableArea": 332,
+    "usableAreaTo": null,
+    "primaryArea": 306,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/13/5/429/803/135_373f0123-e436-41a9-bd86-72d3f3364c53.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/13/5/429/803/135_2f571452-96a3-4734-8928-fd0b633661b1.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/13/5/429/803/135_ed18c238-0ff3-4c36-9e76-3b1bed12a20b.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/13/5/429/803/135_e593f348-d08e-4163-a334-338f3609758a.jpg"
+   ]
+  },
+  {
+   "estateId": "3830200",
+   "assignmentNumber": "92250261",
+   "type": "Enebolig",
+   "ownershipType": "Eier (Selveier)",
+   "assignmentType": "DeceasedEstate",
+   "isProjectMaster": false,
+   "streetAddress": "Høgdaveien 18",
+   "localArea": "Nesøya",
+   "municipalityArea": "Asker-Nesøya",
+   "municipalityName": "Asker",
+   "postalPlace": "Nesøya",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-08-14T06:00:00.000Z",
+   "prices": {
+    "askingPrice": 18950000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 311,
+    "grossInternalAreaTo": null,
+    "usableArea": 324,
+    "usableAreaTo": null,
+    "primaryArea": 243,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/17/6/409/056/526_484570ec-e5c9-4a03-85dc-98503b90bcad.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/17/6/409/056/526_46be4b89-920b-400c-92d0-1fff32c21d27.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/17/6/409/056/526_ba60a4f5-7012-455f-b497-64ea45e58206.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/17/6/409/056/526_85553384-a3cc-4985-8ce4-c5125c43d451.jpg"
+   ]
+  },
+  {
+   "estateId": "129560",
+   "assignmentNumber": "92260434",
+   "type": "Leilighet",
+   "ownershipType": "Aksje",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Løvsetdalen 14 B",
+   "localArea": "Abildsø/Langerud",
+   "municipalityArea": "Bøler",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-08-08T10:17:47.861Z",
+   "prices": {
+    "askingPrice": 4690000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 64,
+    "grossInternalAreaTo": null,
+    "usableArea": 79,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/8/vertical-2/07/0/472/424/760_c7965666-979e-4adb-96c7-f1ef1cf5ec57.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/8/vertical-2/07/0/472/424/760_50031e9f-34a6-4bb9-83df-c9a752fffad8.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/8/vertical-2/07/0/472/424/760_cf000b75-e16e-4d73-933e-f8d5a7449dd7.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/8/vertical-2/07/0/472/424/760_7994904b-4f09-4272-b434-2089a307ab83.jpg"
+   ]
+  },
+  {
+   "estateId": "116962",
+   "assignmentNumber": "92260298",
+   "type": "Leilighet",
+   "ownershipType": "Eier (Selveier)",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Monrads gate 17 D",
+   "localArea": "Grunerløkka - Sofienberg",
+   "municipalityArea": "Grünerløkka - Sofienberg",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-08-07T12:58:18.065Z",
+   "prices": {
+    "askingPrice": 5190000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 59,
+    "grossInternalAreaTo": null,
+    "usableArea": 64,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/8/vertical-2/07/1/472/374/661_230b56a6-5630-4164-b2b3-f966a19804f2.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/8/vertical-2/07/1/472/374/661_43d4013d-a5f8-4da7-a0b2-80b04b1808da.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/8/vertical-2/07/1/472/374/661_372c6570-6220-4cde-8e65-de640097e4e5.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/8/vertical-2/07/1/472/374/661_496aa16d-78f7-49ef-af43-09ef93868a8d.jpg"
+   ]
+  },
+  {
+   "estateId": "3838032",
+   "assignmentNumber": "92250323",
+   "type": "Leilighet",
+   "ownershipType": "Andel",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Waldemar Thranes gate 57, leilighet 406",
+   "localArea": "St. Hanshaugen",
+   "municipalityArea": "St. Hanshaugen",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-08-04T10:00:00.000Z",
+   "prices": {
+    "askingPrice": 2190000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 10,
+    "grossInternalAreaTo": null,
+    "usableArea": 13,
+    "usableAreaTo": null,
+    "primaryArea": 10,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/20/0/456/630/790_2b246f29-0d2b-4990-ac70-26ed9c00e490.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/20/0/456/630/790_867bbb3e-bf3a-438d-8bcf-b610c4cdd549.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/20/0/456/630/790_d7f6b56c-0931-4a04-9c4b-79646daf32fa.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/20/0/456/630/790_dfa2b3be-f5b0-449f-b849-ae94315156f1.jpg"
+   ]
+  },
+  {
+   "estateId": "110203",
+   "assignmentNumber": "92260152",
+   "type": "Enebolig",
+   "ownershipType": "Annet",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Jerpevegen 8",
+   "localArea": "Solsiden på Nesbyen",
+   "municipalityArea": "",
+   "municipalityName": "Nesbyen",
+   "postalPlace": "Nesbyen",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-07-11T13:06:50.403Z",
+   "prices": {
+    "askingPrice": 2990000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 160,
+    "grossInternalAreaTo": null,
+    "usableArea": 160,
+    "usableAreaTo": null,
+    "primaryArea": 160,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/7/vertical-2/11/3/469/521/963_86141f56-c8f2-48b0-b404-7e275ed28cb3.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/7/vertical-2/11/3/469/521/963_666ad513-d69b-411c-a21d-cd73d5dd0d33.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/7/vertical-2/11/3/469/521/963_6bcf410a-fb08-4fc8-a733-e3445068cbd0.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/7/vertical-2/11/3/469/521/963_a670a31b-b300-4c8c-a15b-afb3f9f01325.jpg"
+   ]
+  },
+  {
+   "estateId": "3838031",
+   "assignmentNumber": "92250322",
+   "type": "Leilighet",
+   "ownershipType": "Andel",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Waldemar Thranes gate 57, leilighet 405",
+   "localArea": "St. Hanshaugen",
+   "municipalityArea": "St. Hanshaugen",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-07-10T11:50:00.000Z",
+   "prices": {
+    "askingPrice": 2490000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 13,
+    "grossInternalAreaTo": null,
+    "usableArea": 15,
+    "usableAreaTo": null,
+    "primaryArea": 13,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/20/0/469/439/930_6f573215-1581-40ee-bb8a-a9ded28955d5.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/20/0/469/439/930_db09e65b-9d63-4897-8fc8-830bd3b240d8.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/20/0/469/439/930_560a1dc3-8c32-4620-86ea-c46e04fda298.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/20/0/469/439/930_2cfeef81-83bd-40b7-b802-170c9fcd21a7.jpg"
+   ]
+  },
+  {
+   "estateId": "121262",
+   "assignmentNumber": "92260329",
+   "type": "Leilighet",
+   "ownershipType": "Andel",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Krokliveien 45",
+   "localArea": "Bjerkedalen Park / Vollebekk",
+   "municipalityArea": "Bjerke",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-06-12T10:01:31.265Z",
+   "prices": {
+    "askingPrice": 5100000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 66,
+    "grossInternalAreaTo": null,
+    "usableArea": 73,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/6/vertical-2/04/3/465/933/413_01834f0a-d611-4aa0-a7e5-9c415d9be4f6.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/6/vertical-2/13/3/465/933/413_926abf39-795b-494e-a185-fb32a1766b51.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/6/vertical-2/04/3/465/933/413_0a935199-875f-4d22-8bb2-85663ceba929.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/6/vertical-2/04/3/465/933/413_9c645f48-8d04-4be6-9a75-c0e9238b1093.jpg"
+   ]
+  },
+  {
+   "estateId": "118407",
+   "assignmentNumber": "92260273",
+   "type": "Tomt",
+   "ownershipType": "Annet",
+   "assignmentType": "Plot",
+   "isProjectMaster": false,
+   "streetAddress": "Munkerudkleiva 25",
+   "localArea": "MUNKERUD/NORDSTRAND",
+   "municipalityArea": "Nordstrand",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-06-11T16:41:02.015Z",
+   "prices": {
+    "askingPrice": 14000000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": null,
+    "grossInternalAreaTo": null,
+    "usableArea": null,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/6/vertical-2/11/5/466/002/725_9dd8f43d-13db-4488-a30a-a5c2b3da5df5.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/6/vertical-2/11/5/466/002/725_b148727a-da88-492a-bfec-cc14d7ce12bb.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/6/vertical-2/08/5/466/002/725_dcb9117e-7230-4cf8-93f6-813eeaf4ab22.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/6/vertical-2/10/5/466/002/725_2c22f7cf-5363-4fd6-9f2e-05c21f8e2fb4.jpg"
+   ]
+  },
+  {
+   "estateId": "119539",
+   "assignmentNumber": "92260290",
+   "type": "Enebolig",
+   "ownershipType": "Annet",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Olabakken 15",
+   "localArea": "Nesøya",
+   "municipalityArea": "",
+   "municipalityName": "Asker",
+   "postalPlace": "Nesøya",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-05-29T11:47:27.736Z",
+   "prices": {
+    "askingPrice": 28000000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 373,
+    "grossInternalAreaTo": null,
+    "usableArea": 381,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/5/vertical-2/26/1/464/988/891_40e28893-bd07-46da-9553-b752921d38e1.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/5/vertical-2/26/1/464/988/891_5236a781-ea19-4091-af95-4b3e67afa150.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/5/vertical-2/26/1/464/988/891_efe61577-ea3f-4a88-9718-8fc6d0259d5e.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/5/vertical-2/29/1/464/988/891_794b86f6-ccc7-4d95-b8cc-4795329473f8.png"
+   ]
+  },
+  {
+   "estateId": "3837997",
+   "assignmentNumber": "92250288",
+   "type": "Leilighet",
+   "ownershipType": "Andel",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Waldemar Thranes gate 57, leilighet 104",
+   "localArea": "St. Hanshaugen",
+   "municipalityArea": "St. Hanshaugen",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-05-08T11:29:00.000Z",
+   "prices": {
+    "askingPrice": 6190000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 131,
+    "grossInternalAreaTo": null,
+    "usableArea": 132,
+    "usableAreaTo": null,
+    "primaryArea": 82,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/31/2/450/376/002_e49e00ed-80a1-4893-acb7-5ae0dbf9f3f5.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/31/2/450/376/002_e1bdc66d-7d94-4aa5-bad8-6edb7de507bd.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/31/2/450/376/002_ae10d1c9-548c-484b-8ee6-4163f3c34556.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/31/2/450/376/002_dca5d0b9-c34b-4a66-a372-0b6f22ee7d9a.jpg"
+   ]
+  },
+  {
+   "estateId": "111233",
+   "assignmentNumber": "92260151",
+   "type": "Tomannsbolig",
+   "ownershipType": "Eier (Selveier)",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Jon Smørs vei 7A",
+   "localArea": "NESØYA",
+   "municipalityArea": "",
+   "municipalityName": "Asker",
+   "postalPlace": "Nesøya",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-04-24T12:17:22.903Z",
+   "prices": {
+    "askingPrice": 32000000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 335,
+    "grossInternalAreaTo": null,
+    "usableArea": 335,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/4/vertical-2/23/7/461/065/997_6adfea50-e701-4812-9639-525c8e5cc990.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/4/vertical-2/23/7/461/065/997_aa233635-103f-43b9-96cc-d7fd8e37059f.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/18/7/461/065/997_c96e5532-9125-45dd-a93d-91bfd539827d.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/4/vertical-2/23/7/461/065/997_a38b5224-bb00-4a91-b38b-79184c9d8965.jpg"
+   ]
+  },
+  {
+   "estateId": "109702",
+   "assignmentNumber": "92260126",
+   "type": "Hytte",
+   "ownershipType": "Annet",
+   "assignmentType": "Leisure",
+   "isProjectMaster": false,
+   "streetAddress": "Vestre Nesfjellet 21",
+   "localArea": "NESFJELLET / NATTEN",
+   "municipalityArea": "",
+   "municipalityName": "Nesbyen",
+   "postalPlace": "Nesbyen",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-03-27T17:43:56.900Z",
+   "prices": {
+    "askingPrice": 4100000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 63,
+    "grossInternalAreaTo": null,
+    "usableArea": 67,
+    "usableAreaTo": null,
+    "primaryArea": 63,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/3/vertical-2/28/3/457/707/783_3a312a09-f464-42e5-a21a-e00bec48e393.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/3/vertical-2/28/3/457/707/783_a0fd9334-bc9a-4559-b93a-c115403109e5.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/3/vertical-2/28/3/457/707/783_e1fcafe4-d639-467c-bfe8-6c4759490474.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/3/vertical-2/28/3/457/707/783_7ccd82ad-6a77-4ad0-96d9-99a3eb8213f2.jpg"
+   ]
+  },
+  {
+   "estateId": "107656",
+   "assignmentNumber": "92260129",
+   "type": "Leilighet",
+   "ownershipType": "Eier (Selveier)",
+   "assignmentType": "Leisure",
+   "isProjectMaster": false,
+   "streetAddress": "Veslestølvegen 4",
+   "localArea": "",
+   "municipalityArea": "",
+   "municipalityName": "Ål",
+   "postalPlace": "Ål",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-03-27T16:11:52.272Z",
+   "prices": {
+    "askingPrice": 970000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 54,
+    "grossInternalAreaTo": null,
+    "usableArea": 58,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/8/vertical-2/31/3/457/509/783_cfaa6da5-1961-4cc0-b7e8-fb1122e33498.png",
+    "https://images.finncdn.no/dynamic/1600w/2026/8/vertical-2/19/3/457/509/783_15380c81-66e7-488a-93cc-780b2087dd3a.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/8/vertical-2/26/3/457/509/783_3df545bb-5f1a-41bb-8b61-37b7c0dccc86.png",
+    "https://images.finncdn.no/dynamic/1600w/2026/3/vertical-2/27/3/457/509/783_ac24e716-65f8-4352-b1ff-00729b2273a8.jpg"
+   ]
+  },
+  {
+   "estateId": "3851390",
+   "assignmentNumber": "92250667",
+   "type": "Enebolig",
+   "ownershipType": "Eier (Selveier)",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Groberget 5",
+   "localArea": "Geilo",
+   "municipalityArea": "Hol-Geilo",
+   "municipalityName": "Hol",
+   "postalPlace": "Geilo",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-02-19T08:48:00.000Z",
+   "prices": {
+    "askingPrice": 4700000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 251,
+    "grossInternalAreaTo": null,
+    "usableArea": 311,
+    "usableAreaTo": null,
+    "primaryArea": 217,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/8/vertical-2/28/3/451/756/163_a5a8b351-32d1-433e-92bb-5579ab192783.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/8/vertical-2/28/3/451/756/163_bdd38d90-35a4-4668-96c3-7f558d51e10b.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/8/vertical-2/28/3/451/756/163_a9f886d5-bae6-41f0-8fe9-29547eb62f8a.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/8/vertical-2/28/3/451/756/163_984a5799-9fed-40c5-b6ac-a687a2bed528.jpg"
+   ]
+  },
+  {
+   "estateId": "3837374",
+   "assignmentNumber": "92250340",
+   "type": "Hyttetomt",
+   "ownershipType": "Eier (Selveier)",
+   "assignmentType": "Plot",
+   "isProjectMaster": false,
+   "streetAddress": "Veritasfeltet 18",
+   "localArea": "Nesbyen",
+   "municipalityArea": "Nesbyen",
+   "municipalityName": "Nesbyen",
+   "postalPlace": "Nesbyen",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-02-14T10:04:00.000Z",
+   "prices": {
+    "askingPrice": 2400000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": null,
+    "grossInternalAreaTo": null,
+    "usableArea": null,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/2/vertical-2/20/6/414/007/956_9a7b3db7-88ac-4129-ae98-8dc7e191e269.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/2/vertical-2/20/6/414/007/956_c497da18-6009-49c4-961e-da262bb75d68.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/2/vertical-2/20/6/414/007/956_f35e0cdb-0262-48ab-b490-73d124543055.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/2/vertical-2/20/6/414/007/956_93fbe264-2fbc-491f-898d-abd2761793ff.jpg"
+   ]
+  },
+  {
+   "estateId": "3836317",
+   "assignmentNumber": "92250367",
+   "type": "Kontorlokale",
+   "ownershipType": "Eier (Selveier)",
+   "assignmentType": "Commercial",
+   "isProjectMaster": false,
+   "streetAddress": "Toftes Gate 60 B",
+   "localArea": "Grünerløkka",
+   "municipalityArea": "Grunerløkka-Sofienberg",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2025-08-05T11:00:00.000Z",
+   "prices": {
+    "askingPrice": 8500000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": null,
+    "grossInternalAreaTo": null,
+    "usableArea": 201,
+    "usableAreaTo": null,
+    "primaryArea": 201,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://rt-gateway.reeltime.no/proxy/webmegler/120/3836317/wngetbilde.ashx?/abilde/k120/f%5Cbilder%5C2025%5C36%5C6%5C12524508_1-xezdkb1.jpg&v=1",
+    "https://rt-gateway.reeltime.no/proxy/webmegler/120/3836317/wngetbilde.ashx?/abilde/k120/f%5Cbilder%5C2025%5C36%5C6%5C12524507_1-drridb1.jpg&v=1",
+    "https://rt-gateway.reeltime.no/proxy/webmegler/120/3836317/wngetbilde.ashx?/abilde/k120/f%5Cbilder%5C2025%5C36%5C8%5C12587510_1-xabevb.jpg&v=1",
+    "https://rt-gateway.reeltime.no/proxy/webmegler/120/3836317/wngetbilde.ashx?/abilde/k120/f%5Cbilder%5C2025%5C36%5C6%5C12524492_1-nutytb1.jpg&v=1"
+   ]
+  },
+  {
+   "estateId": "3828713",
+   "assignmentNumber": "92250116",
+   "type": "Leilighet",
+   "ownershipType": "Eier (Selveier)",
+   "assignmentType": "Leisure",
+   "isProjectMaster": false,
+   "streetAddress": "Gneisvegen 15B",
+   "localArea": "NESFJELLET",
+   "municipalityArea": "Nesbyen",
+   "municipalityName": "Nesbyen",
+   "postalPlace": "Nesbyen",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2025-07-04T12:29:00.000Z",
+   "prices": {
+    "askingPrice": 3800000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 66,
+    "grossInternalAreaTo": null,
+    "usableArea": 71,
+    "usableAreaTo": null,
+    "primaryArea": 66,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/2/vertical-2/20/7/398/393/667_f3df9513-0ff5-453b-90f7-2309e9ffba4d.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/2/vertical-2/20/7/398/393/667_940bf4ea-5c03-49fa-9415-9f57b525c761.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/2/vertical-2/20/7/398/393/667_2811a9a8-92b0-4f21-b910-d1db7a5ec59e.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/2/vertical-2/20/7/398/393/667_e39f4410-b2c1-47a1-b0ab-1339a2f4d178.jpg"
+   ]
+  }
+ ],
+ "sold": [
+  {
+   "estateId": "135499",
+   "assignmentNumber": "92260515",
+   "type": "Leilighet",
+   "ownershipType": "Aksje",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Helgesens gate 82 C",
+   "localArea": "Sofienberg",
+   "municipalityArea": "Grünerløkka - Sofienberg",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": true,
+   "soldAt": "2026-11-09T12:06:46.640Z",
+   "publishedAt": "2026-11-01T18:26:04.180Z",
+   "prices": {
+    "askingPrice": 6400000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 64,
+    "grossInternalAreaTo": null,
+    "usableArea": 74,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/24/4/477/189/064_98a483db-4f59-4604-bfec-4dd80825e46b.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/24/4/477/189/064_0750e6fd-6443-45f0-8a02-bd1bf0d0c015.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/24/4/477/189/064_772b654b-ff3a-4ec8-8bd7-ec5cd18ab9c8.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/24/4/477/189/064_77f23cfe-0e45-487c-af49-40305c622844.jpg"
+   ]
+  },
+  {
+   "estateId": "110121",
+   "assignmentNumber": "92260156",
+   "type": "Leilighet",
+   "ownershipType": "Eier (Selveier)",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Vøyensvingen 7",
+   "localArea": "Alexander Kiellands plass v/ Iladalen",
+   "municipalityArea": "St. Hanshaugen - Ullevål",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": true,
+   "soldAt": "2026-11-09T12:04:15.795Z",
+   "publishedAt": "2026-11-02T17:05:11.924Z",
+   "prices": {
+    "askingPrice": 4990000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 41,
+    "grossInternalAreaTo": null,
+    "usableArea": 46,
+    "usableAreaTo": null,
+    "primaryArea": 41,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/15/8/478/711/438_5864a441-2b40-414e-acaa-89746b5ecb7b.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/15/8/478/711/438_bafca0ee-e196-44b8-8c0f-06f8712260b2.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/15/8/478/711/438_d80ebe11-0e35-4fef-bb4e-3885a7f79ba6.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/18/8/478/711/438_08036d41-1ff2-4ece-ab21-3dd60b7a91e4.jpg"
+   ]
+  },
+  {
+   "estateId": "134340",
+   "assignmentNumber": "92260531",
+   "type": "Leilighet",
+   "ownershipType": "Andel",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Sverres gate 5",
+   "localArea": "Herlig utsikt på Tøyen",
+   "municipalityArea": "Gamle Oslo",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": true,
+   "soldAt": "2026-11-06T13:49:33.216Z",
+   "publishedAt": "2026-10-18T16:17:47.572Z",
+   "prices": {
+    "askingPrice": 4650000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 53,
+    "grossInternalAreaTo": null,
+    "usableArea": 58,
+    "usableAreaTo": null,
+    "primaryArea": 53,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/22/2/477/075/812_89782018-7739-4501-adde-b0c473828d3c.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/22/2/477/075/812_031c803c-d18c-4aec-84d2-4626e052bbaf.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/22/2/477/075/812_32ec151a-5d6b-410b-9a32-eccdde99a6a7.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/22/2/477/075/812_ca1043b1-5c61-4ba0-9675-177160c3fdf7.jpg"
+   ]
+  },
+  {
+   "estateId": "140987",
+   "assignmentNumber": "92260581",
+   "type": "Leilighet",
+   "ownershipType": "Eier (Selveier)",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Bergstien 16 C",
+   "localArea": "Indre gårdsrom v/ parken",
+   "municipalityArea": "St. Hanshaugen - Ullevål",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": true,
+   "soldAt": "2026-11-05T15:34:38.008Z",
+   "publishedAt": "2026-11-01T19:16:24.744Z",
+   "prices": {
+    "askingPrice": 5990000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 71,
+    "grossInternalAreaTo": null,
+    "usableArea": 81,
+    "usableAreaTo": null,
+    "primaryArea": 71,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/11/vertical-2/01/4/480/075/274_bee5abe3-bde7-4e78-b9a9-944a5179fd6d.png",
+    "https://images.finncdn.no/dynamic/1600w/2026/11/vertical-2/01/4/480/075/274_9a6f17af-40d7-4061-971d-64dcf310988c.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/11/vertical-2/01/4/480/075/274_53fc4b82-5e5b-44ab-af5f-6350a0b0c75e.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/11/vertical-2/01/4/480/075/274_8ac1371e-67c8-40b4-bf24-3acd87b5aea5.jpg"
+   ]
+  },
+  {
+   "estateId": "123423",
+   "assignmentNumber": "92260476",
+   "type": "Leilighet",
+   "ownershipType": "Andel",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Hansteens gate 7B",
+   "localArea": "Frogner/Vika",
+   "municipalityArea": "Bygdøy - Frogner",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": true,
+   "soldAt": "2026-11-05T07:59:04.841Z",
+   "publishedAt": "2026-10-25T18:45:26.893Z",
+   "prices": {
+    "askingPrice": 8790000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 88,
+    "grossInternalAreaTo": null,
+    "usableArea": 95,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/25/3/477/248/623_53f6690b-9302-47ee-8906-bcd5926735ff.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/25/3/477/248/623_fba07f7b-0f2c-4c5a-8230-6a7ce9d7d18a.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/25/3/477/248/623_2e400b73-cd5e-4eb7-9de9-ec92da65293a.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/25/3/477/248/623_b0f39a15-e8df-4f36-b7f5-6f26d413b621.jpg"
+   ]
+  },
+  {
+   "estateId": "139386",
+   "assignmentNumber": "92260565",
+   "type": "Leilighet",
+   "ownershipType": "Andel",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Armauer Hansens gate 11",
+   "localArea": "Idylliske Lindern Hageby",
+   "municipalityArea": "St. Hanshaugen - Ullevål",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": true,
+   "soldAt": "2026-11-04T13:43:01.845Z",
+   "publishedAt": "2026-10-16T16:42:09.954Z",
+   "prices": {
+    "askingPrice": 14800000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 111,
+    "grossInternalAreaTo": null,
+    "usableArea": 119,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/16/0/478/856/260_10684f8c-b444-4063-9bca-03ec2b1d7ff9.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/16/0/478/856/260_b874781a-276d-49d2-9d00-58710ff1ad35.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/16/0/478/856/260_10796ccf-9e74-43e2-a06c-692b304df100.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/16/0/478/856/260_94a82d62-0962-4e86-9e68-3b3ce2ce95d8.png"
+   ]
+  },
+  {
+   "estateId": "140555",
+   "assignmentNumber": "92260580",
+   "type": "Leilighet",
+   "ownershipType": "Eier (Selveier)",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Bygdøy allé 90",
+   "localArea": "Skarpsno / Frogner",
+   "municipalityArea": "Bygdøy - Frogner",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": true,
+   "soldAt": "2026-11-04T12:36:34.914Z",
+   "publishedAt": "2026-10-30T08:09:50.045Z",
+   "prices": {
+    "askingPrice": 5790000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 53,
+    "grossInternalAreaTo": null,
+    "usableArea": 57,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/30/8/479/834/558_797de933-b523-4696-8f6e-5c7837699f07.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/30/8/479/834/558_ad3424a3-f8eb-4b52-8acc-63af726d985c.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/30/8/479/834/558_7ff25570-25ed-4e3b-bb4d-145866ed8ab2.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/30/8/479/834/558_2c5c6231-3f4c-46a4-9e40-dc6f6eb93ad5.jpg"
+   ]
+  },
+  {
+   "estateId": "137495",
+   "assignmentNumber": "92260558",
+   "type": "Leilighet",
+   "ownershipType": "Andel",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Fredrikke Qvams gate 21",
+   "localArea": "St. Hanshaugen",
+   "municipalityArea": "St. Hanshaugen - Ullevål",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": true,
+   "soldAt": "2026-11-03T12:56:49.680Z",
+   "publishedAt": "2026-10-25T10:00:24.075Z",
+   "prices": {
+    "askingPrice": 6500000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 71,
+    "grossInternalAreaTo": null,
+    "usableArea": 83,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/24/9/479/380/159_8e9652b0-ea05-4475-a7f3-0f81587e91aa.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/24/9/479/380/159_1191b440-bad4-4d04-94d9-dcebaa84674e.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/24/9/479/380/159_19c1c111-b241-46fa-975f-8b5e513ffc6b.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/24/9/479/380/159_502412ae-970c-47b2-a660-e790088344a7.jpg"
+   ]
+  },
+  {
+   "estateId": "131415",
+   "assignmentNumber": "92260452",
+   "type": "Leilighet",
+   "ownershipType": "Andel",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Helgesens gate 20 B",
+   "localArea": "Grünerløkka ved Birkelunden",
+   "municipalityArea": "Grünerløkka - Sofienberg",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": true,
+   "soldAt": "2026-11-03T08:58:18.922Z",
+   "publishedAt": "2026-11-01T19:23:15.255Z",
+   "prices": {
+    "askingPrice": 5600000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 53,
+    "grossInternalAreaTo": null,
+    "usableArea": 53,
+    "usableAreaTo": null,
+    "primaryArea": 53,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/11/7/476/122/547_305416ec-c1a3-42ff-bd65-78ae9f212b13.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/11/7/476/122/547_a8e2e18f-e409-4d65-b9a7-7762d997a080.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/11/7/476/122/547_4f1967cd-cebd-4b51-8d9c-265fec0428b5.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/11/7/476/122/547_386e3eda-43b6-4efb-afb1-e4ef1a3e6740.jpg"
+   ]
+  },
+  {
+   "estateId": "136533",
+   "assignmentNumber": "92260540",
+   "type": "Leilighet",
+   "ownershipType": "Eier (Selveier)",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Sandakerveien 110",
+   "localArea": "ETTERTRAKTET PÅ LILLO GÅRD",
+   "municipalityArea": "Sagene - Torshov",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": true,
+   "soldAt": "2026-11-02T13:52:55.680Z",
+   "publishedAt": "2026-10-25T16:19:46.789Z",
+   "prices": {
+    "askingPrice": 4850000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 44,
+    "grossInternalAreaTo": null,
+    "usableArea": 53,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/10/1/478/362/871_a559a9ee-ab49-4b5c-bf0d-766ca4a2397c.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/10/1/478/362/871_1e673aeb-3afd-461c-8c9f-2fbf44c501f4.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/10/1/478/362/871_f632e0f9-1752-4054-8379-b996dfd277b3.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/10/1/478/362/871_5b115dd6-ee7e-4f4d-95f6-e21223aec38b.jpg"
+   ]
+  },
+  {
+   "estateId": "140759",
+   "assignmentNumber": "92260575",
+   "type": "Leilighet",
+   "ownershipType": "Andel",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Sannergata 17 B",
+   "localArea": "Grünerløkka ved Birkelunden",
+   "municipalityArea": "Sagene - Torshov",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": true,
+   "soldAt": "2026-11-02T11:38:07.377Z",
+   "publishedAt": "2026-10-23T10:22:58.252Z",
+   "prices": {
+    "askingPrice": 6300000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 77,
+    "grossInternalAreaTo": null,
+    "usableArea": 86,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/22/7/479/316/747_8486025d-0b1e-4afa-abc4-c1aaf53707ba.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/22/7/479/316/747_d7bda18f-2fca-41bc-a616-d12661d72b5f.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/22/7/479/316/747_7a50f875-870f-488c-b03a-ad6444b66987.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/22/7/479/316/747_cfb0250c-d974-4aaf-a037-a1c42b9defe1.jpg"
+   ]
+  },
+  {
+   "estateId": "3851578",
+   "assignmentNumber": "92250654",
+   "type": "Leilighet",
+   "ownershipType": "Eier (Selveier)",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Sandakerveien 137D",
+   "localArea": "Nydalen",
+   "municipalityArea": "Sagene-Torshov",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": true,
+   "soldAt": "2026-11-01T23:00:00.000Z",
+   "publishedAt": "2026-10-25T19:30:00.000Z",
+   "prices": {
+    "askingPrice": 3875000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 30,
+    "grossInternalAreaTo": null,
+    "usableArea": 30,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/25/0/479/588/240_789c9efe-61f7-4e74-9179-8df9c6a79911.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/25/0/479/588/240_287488b9-d634-4e00-b85a-052e31863e65.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/25/0/479/588/240_b03f9939-319a-4f44-9b02-779b5aad8654.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/25/0/479/588/240_d0f9613d-c9b1-40af-b32f-f0bdba64161f.jpg"
+   ]
+  }
+ ],
+ "department": {
+  "alias": "aksept",
+  "name": "Aksept",
+  "legalName": "Aksept Eiendomsmegling AS",
+  "email": "aksept@privatmegleren.no",
+  "phone": "22602808",
+  "postalZip": "0171",
+  "postalPlace": "Oslo",
+  "valuationUrl": "https://privatmegleren.no/verdivurdering",
+  "departmentUrl": "https://privatmegleren.no/aksept",
+  "employees": [
+   {
+    "name": "Ellen Pike",
+    "title": "Daglig leder / Eiendomsmegler / Partner",
+    "employeeAlias": "ellen-pike",
+    "email": "ellen.pike@privatmegleren.no",
+    "mobilePhone": "+4792070040",
+    "workPhone": null,
+    "image": "https://proxy.reeltime.no/image/broker/127"
+   },
+   {
+    "name": "Joakim Bjøntegård",
+    "title": "Eiendomsmegler / Partner",
+    "employeeAlias": "joakim-bjontegaard",
+    "email": "joakim.bjontegard@privatmegleren.no",
+    "mobilePhone": "95200231",
+    "workPhone": null,
+    "image": "https://proxy.reeltime.no/image/broker/231"
+   },
+   {
+    "name": "Jørgen Sylte Swensen",
+    "title": "Eiendomsmegler MNEF / Partner",
+    "employeeAlias": "jorgen-swensen",
+    "email": "jorgen.swensen@privatmegleren.no",
+    "mobilePhone": "+4791569768",
+    "workPhone": null,
+    "image": "https://proxy.reeltime.no/image/broker/253"
+   },
+   {
+    "name": "Helene Vågen",
+    "title": "Eiendomsmegler / Partner",
+    "employeeAlias": "helene-vaagen",
+    "email": "helene.vagen@privatmegleren.no",
+    "mobilePhone": "+4792096304",
+    "workPhone": null,
+    "image": "https://proxy.reeltime.no/image/broker/186"
+   },
+   {
+    "name": "Eva Lotsberg",
+    "title": "Eiendomsmegler MNEF / Fagansvarlig  / Partner",
+    "employeeAlias": "eva-lotsberg",
+    "email": "eva.lotsberg@privatmegleren.no",
+    "mobilePhone": "93833965",
+    "workPhone": null,
+    "image": "https://proxy.reeltime.no/image/broker/638"
+   },
+   {
+    "name": "Karoline B. Olsen",
+    "title": "Eiendomsmegler / Partner",
+    "employeeAlias": "karoline-b-olsen",
+    "email": "karolineb.olsen@privatmegleren.no",
+    "mobilePhone": "99102087",
+    "workPhone": null,
+    "image": "https://proxy.reeltime.no/image/broker/266"
+   },
+   {
+    "name": "Marte Førde",
+    "title": "Eiendomsmegler MNEF / Partner",
+    "employeeAlias": "marte-forde",
+    "email": "marte.forde@privatmegleren.no",
+    "mobilePhone": "95402922",
+    "workPhone": null,
+    "image": "https://proxy.reeltime.no/image/broker/354"
+   },
+   {
+    "name": "Tor Martin Tinderholt",
+    "title": "Eiendomsmegler / Salgsleder / Partner",
+    "employeeAlias": "tor-martin-tinderholt",
+    "email": "tor.martin.tinderholt@privatmegleren.no",
+    "mobilePhone": "+4741844305",
+    "workPhone": null,
+    "image": "https://proxy.reeltime.no/image/broker/646"
+   },
+   {
+    "name": "Benjamin Schøn",
+    "title": "Partner / Eiendomsmegler MNEF",
+    "employeeAlias": "benjamin-schon",
+    "email": "benjamin.schon@privatmegleren.no",
+    "mobilePhone": "+4790557535",
+    "workPhone": null,
+    "image": "https://proxy.reeltime.no/image/broker/55"
+   },
+   {
+    "name": "Peter Hørte Lunde",
+    "title": "Eiendomsmegler / Partner",
+    "employeeAlias": "peter-horte-lunde",
+    "email": "peter.lunde@privatmegleren.no",
+    "mobilePhone": "+4745693038",
+    "workPhone": null,
+    "image": "https://proxy.reeltime.no/image/broker/839"
+   },
+   {
+    "name": "Isabel Limi",
+    "title": "Eiendomsmegler / Partner",
+    "employeeAlias": "isabel-limi",
+    "email": "isabel.limi@privatmegleren.no",
+    "mobilePhone": "93038536",
+    "workPhone": null,
+    "image": "https://proxy.reeltime.no/image/broker/2750"
+   },
+   {
+    "name": "Ida Kristine Myhrvold",
+    "title": "Eiendomsmegler",
+    "employeeAlias": "ida-kristine-myhrvold",
+    "email": "ida.kristine.myhrvold@privatmegleren.no",
+    "mobilePhone": "+4791649580",
+    "workPhone": null,
+    "image": "https://proxy.reeltime.no/image/broker/202"
+   },
+   {
+    "name": "Aksel Walmsnæss",
+    "title": "Eiendomsmegler",
+    "employeeAlias": "aksel-walmsnaess",
+    "email": "aksel.walmsness@privatmegleren.no",
+    "mobilePhone": "+4792205554",
+    "workPhone": null,
+    "image": "https://proxy.reeltime.no/image/broker/1273"
+   },
+   {
+    "name": "Synne Berg Farstad",
+    "title": "Eiendomsmeglerfullmektig",
+    "employeeAlias": "synne-berg-farstad",
+    "email": "synne.farstad@privatmegleren.no",
+    "mobilePhone": "+4794183690",
+    "workPhone": null,
+    "image": "https://proxy.reeltime.no/image/broker/2274"
+   },
+   {
+    "name": "Agathe Nässelqvist",
+    "title": "Eiendomsmeglerfullmektig",
+    "employeeAlias": "agathe-nasselqvist",
+    "email": "agathe.nesselqvist@privatmegleren.no",
+    "mobilePhone": "+4747710254",
+    "workPhone": null,
+    "image": "https://proxy.reeltime.no/image/broker/2450"
+   },
+   {
+    "name": "Maria Therese Tviberg",
+    "title": "Eiendomsmeglerfullmektig",
+    "employeeAlias": "maria-therese-tviberg",
+    "email": "maria.tviberg@privatmegleren.no",
+    "mobilePhone": "92645009",
+    "workPhone": null,
+    "image": "https://proxy.reeltime.no/image/broker/3017"
+   },
+   {
+    "name": "Aleksander Fjeld Andersen",
+    "title": "Eiendomsmeglerfullmektig",
+    "employeeAlias": "aleksander-fjeld-andersen",
+    "email": "aleksander.fjeld.andersen@privatmegleren.no",
+    "mobilePhone": "40463209",
+    "workPhone": null,
+    "image": "https://proxy.reeltime.no/image/broker/2676"
+   },
+   {
+    "name": "Sigurd Bergseng",
+    "title": "Eiendomsmeglerfullmektig",
+    "employeeAlias": "sigurd-bergseng",
+    "email": "sigurd.bergseng@privatmegleren.no",
+    "mobilePhone": "+4741380770",
+    "workPhone": null,
+    "image": "https://proxy.reeltime.no/image/broker/3204"
+   },
+   {
+    "name": "Emilie Sofie Dreyer",
+    "title": "Eiendomsmeglerfullmektig",
+    "employeeAlias": "emilie-sofie-dreyer",
+    "email": "emilie.dreyer@privatmegleren.no",
+    "mobilePhone": "+4741359994",
+    "workPhone": null,
+    "image": "https://proxy.reeltime.no/image/broker/3579"
+   },
+   {
+    "name": "Tord Røsnes",
+    "title": "Eiendomsmeglerfullmektig",
+    "employeeAlias": "tord-rosnes",
+    "email": "tord.rosnes@privatmegleren.no",
+    "mobilePhone": "92271930",
+    "workPhone": null,
+    "image": "https://proxy.reeltime.no/image/broker/3717"
+   },
+   {
+    "name": "Hanne Aasen",
+    "title": "Medhjelper",
+    "employeeAlias": "hanne-aasen",
+    "email": "hanne.aasen@privatmegleren.no",
+    "mobilePhone": "+4748034683",
+    "workPhone": null,
+    "image": "https://proxy.reeltime.no/image/broker/1759"
+   },
+   {
+    "name": "Philip Andreas Bakke",
+    "title": "Medhjelper",
+    "employeeAlias": "philip-andreas-bakke",
+    "email": "philip.bakke@privatmegleren.no",
+    "mobilePhone": "+4791789959",
+    "workPhone": null,
+    "image": "https://proxy.reeltime.no/image/broker/1813"
+   },
+   {
+    "name": "Albin Littorin-Sandbu",
+    "title": "Medhjelper",
+    "employeeAlias": "albin-littorin-sandbu",
+    "email": "albin.littorin.sandbu@privatmegleren.no",
+    "mobilePhone": "+4790400880",
+    "workPhone": null,
+    "image": "https://proxy.reeltime.no/image/broker/2825"
+   },
+   {
+    "name": "Ulrik Garlie Johanson",
+    "title": "Medhjelper",
+    "employeeAlias": "ulrik-garlie-johanson",
+    "email": "ulrik.johanson@privatmegleren.no",
+    "mobilePhone": "+4746987368",
+    "workPhone": null,
+    "image": "https://proxy.reeltime.no/image/broker/3020"
+   },
+   {
+    "name": "Christina Skjevik",
+    "title": "Medhjelper",
+    "employeeAlias": "christina-skjevik",
+    "email": "christina.skjevik@privatmegleren.no",
+    "mobilePhone": "90640274",
+    "workPhone": null,
+    "image": "https://proxy.reeltime.no/image/broker/3405"
+   },
+   {
+    "name": "Hans Lossius",
+    "title": "Medhjelper",
+    "employeeAlias": "hans-lossius",
+    "email": "hans.lossius@privatmegleren.no",
+    "mobilePhone": "46858572",
+    "workPhone": null,
+    "image": "https://proxy.reeltime.no/image/broker/3546"
+   }
+  ]
+ }
+}

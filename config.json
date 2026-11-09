@@ -1,0 +1,81 @@
+{
+  "office_name": "PrivatMegleren Aksept",
+  "office_url": "https://privatmegleren.no/aksept",
+  "listing_url": "https://privatmegleren.no/eiendom/{id}",
+  "broker_url": "https://privatmegleren.no/megler/{alias}",
+  "valuation_url": "https://privatmegleren.no/verdivurdering-selge-eiendom",
+  "contact_form_url": "https://privatmegleren.no/aksept/kontakt",
+  "instagram": "privatmeglerenaksept",
+  "tiktok": "privatmeglerenaksept",
+
+  "site_url": "",
+  "noindex": true,
+
+  "video_sheet_csv_url": "",
+  "video_max_age_days": 60,
+  "video_max_count": 8,
+  "sold_count": 6,
+  "all_initial_count": 8,
+  "max_feed_age_hours": 6,
+
+  "utm": {
+    "medium": "social",
+    "campaign": "aksept-lenke-i-bio",
+    "default_source": "lenke-i-bio"
+  },
+  "sources": {
+    "ig": "instagram",
+    "tt": "tiktok",
+    "fb": "facebook",
+    "story": "instagram-story",
+    "dm": "dm",
+    "li": "linkedin",
+    "sms": "sms"
+  },
+
+  "contact": {
+    "phone": "22 60 28 08",
+    "phone_e164": "+4722602808",
+    "email": "aksept@privatmegleren.no",
+    "street": "Ullevålsveien 14",
+    "postal": "0171 Oslo",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=PrivatMegleren%20Aksept%2C%20Ullev%C3%A5lsveien%2014%2C%200171%20Oslo"
+  },
+
+  "broker_title_keywords": ["eiendomsmegler", "fullmektig", "megler"],
+  "broker_title_exclude": ["medhjelper"],
+
+  "area_groups": [
+    {"key": "sth", "label": "St. Hanshaugen og Bislett", "municipality": ["oslo"], "match": ["st. hanshaugen", "st.hanshaugen", "bislett", "adamstuen", "ullevål", "lindern"]},
+    {"key": "fro", "label": "Frogner og Majorstuen", "municipality": ["oslo"], "match": ["frogner", "majorstuen", "uranienborg", "bygdøy", "skillebekk", "homansbyen", "fagerborg", "vika"]},
+    {"key": "gru", "label": "Grünerløkka, Sagene og Torshov", "municipality": ["oslo"], "match": ["grunerløkka", "sofienberg", "sagene", "torshov", "sandaker", "nydalen", "carl berner", "rodeløkka"]},
+    {"key": "sen", "label": "Sentrum og Gamle Oslo", "municipality": ["oslo"], "match": ["sentrum", "gamle oslo", "kvadraturen", "kampen", "grønland", "tøyen", "vålerenga"]},
+    {"key": "osl", "label": "Resten av Oslo", "municipality": ["oslo"], "match": []},
+    {"key": "ask", "label": "Asker og Bærum", "municipality": ["asker", "bærum"], "match": []},
+    {"key": "fje", "label": "Hytte og fjell", "municipality": ["hol", "nesbyen", "ål", "gol", "hemsedal", "tinn", "vinje", "trysil", "øystre slidre", "vang", "nore og uvdal"], "match": []},
+    {"key": "and", "label": "Andre steder", "municipality": [], "match": []}
+  ],
+  "price_buckets": [
+    {"key": "p1", "label": "Under 4 mill.", "min": 0, "max": 3999999},
+    {"key": "p2", "label": "4–6 mill.", "min": 4000000, "max": 5999999},
+    {"key": "p3", "label": "6–8 mill.", "min": 6000000, "max": 7999999},
+    {"key": "p4", "label": "8–10 mill.", "min": 8000000, "max": 9999999},
+    {"key": "p5", "label": "10–15 mill.", "min": 10000000, "max": 14999999},
+    {"key": "p6", "label": "Over 15 mill.", "min": 15000000, "max": 999999999999}
+  ],
+  "size_buckets": [
+    {"key": "s1", "label": "Under 40 m²", "min": 0, "max": 39},
+    {"key": "s2", "label": "40–60 m²", "min": 40, "max": 59},
+    {"key": "s3", "label": "60–80 m²", "min": 60, "max": 79},
+    {"key": "s4", "label": "80–100 m²", "min": 80, "max": 99},
+    {"key": "s5", "label": "100–150 m²", "min": 100, "max": 149},
+    {"key": "s6", "label": "Over 150 m²", "min": 150, "max": 999999}
+  ],
+
+  "fonts": {
+    "display": "https://cdn.reeltime.no/pm_assets/fonts/DomaineDisplayCondensed-Regular.otf",
+    "text_light": "https://cdn.reeltime.no/pm_assets/fonts/DomaineText-Light.otf",
+    "text_regular": "https://cdn.reeltime.no/pm_assets/fonts/DomaineText-Regular.otf",
+    "lead": "https://cdn.reeltime.no/pm_assets/fonts/ElegantLuxPro.otf"
+  }
+}

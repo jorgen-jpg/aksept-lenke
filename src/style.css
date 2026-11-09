@@ -1,0 +1,229 @@
+/* Lenke i bio for PrivatMegleren Aksept.
+   Farger og fonter følger PMs profil på Brandpad:
+   Skygge #262830 (bakgrunn), Porselen #E5E3E4 (tekst), Kobber #AE6238 (linjer og detaljer),
+   Syrin #EDBDF2 (knapper), Mørk syrin #4B3048 (flater og merker).
+   Titler i Domaine Display Condensed, brødtekst i Domaine Text Light, ingress i Elegant Lux Pro.
+   Fontene lastes fra PMs egen CDN, samme filer som privatmegleren.no bruker. */
+
+@font-face { font-family: "PM Display"; src: url("__FONT_DISPLAY__") format("opentype"); font-weight: 400; font-style: normal; font-display: swap; }
+@font-face { font-family: "PM Text"; src: url("__FONT_TEXT_LIGHT__") format("opentype"); font-weight: 300; font-style: normal; font-display: swap; }
+@font-face { font-family: "PM Text"; src: url("__FONT_TEXT_REGULAR__") format("opentype"); font-weight: 400; font-style: normal; font-display: swap; }
+@font-face { font-family: "PM Lead"; src: url("__FONT_LEAD__") format("opentype"); font-weight: 400; font-style: normal; font-display: swap; }
+
+:root {
+  --skygge: #262830;
+  --skygge-lys: #2E3039;
+  --porselen: #E5E3E4;
+  --syrin: #EDBDF2;
+  --msyrin: #4B3048;
+  --kobber: #AE6238;
+  --kobber-lys: #C9804F;
+  --dempet: #A6A4A8;
+  --linje: rgba(229, 227, 228, .14);
+  --ramme: rgba(174, 98, 56, .85);
+  --display: "PM Display", "Times New Roman", Georgia, serif;
+  --text: "PM Text", Georgia, "Times New Roman", serif;
+  --lead: "PM Lead", Georgia, "Times New Roman", serif;
+  color-scheme: dark;
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; background: var(--skygge); }
+body {
+  margin: 0;
+  background: var(--skygge);
+  color: var(--porselen);
+  font-family: var(--text);
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 1.45;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+a { color: inherit; text-decoration: none; -webkit-tap-highlight-color: rgba(237, 189, 242, .14); }
+img { display: block; max-width: 100%; }
+button { font: inherit; color: inherit; }
+[hidden] { display: none !important; }
+:focus { outline: none; }
+:focus-visible { outline: 2px solid var(--syrin); outline-offset: 2px; }
+.sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0; }
+
+.wrap {
+  max-width: 480px;
+  margin: 0 auto;
+  padding: 0 16px calc(96px + env(safe-area-inset-bottom));
+}
+
+/* Toppen: logo med luft lik logoens høyde over og under, slik Brandpad krever. */
+.top { padding-top: 29px; }
+.top .logo { width: 200px; height: auto; }
+.top h1 { margin: 29px 0 0; font-family: var(--display); font-weight: 400; font-size: 34px; line-height: 1.02; letter-spacing: 0; }
+.lead { font-family: var(--lead); color: var(--syrin); font-size: 16px; line-height: 1.35; margin: 7px 0 0; }
+
+section { margin-top: 30px; }
+.label {
+  display: flex; justify-content: space-between; align-items: baseline; gap: 12px;
+  margin: 0 0 11px;
+  font-family: var(--text); font-weight: 700; font-size: 11.5px; line-height: 1.2;
+  text-transform: uppercase; letter-spacing: .08em; color: var(--dempet);
+}
+.label .count { font-weight: 400; letter-spacing: 0; text-transform: none; font-size: 12.5px; }
+
+.grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+
+/* Kvadrater. aspect-ratio med reserve for eldre nettlesere i appene. */
+.sq { position: relative; display: block; overflow: hidden; background: var(--skygge-lys); aspect-ratio: 1 / 1; }
+@supports not (aspect-ratio: 1 / 1) { .sq::before { content: ""; display: block; padding-top: 100%; } }
+.sq img { position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; }
+
+/* Nylig i video */
+.v { color: var(--porselen); }
+.v .shade { position: absolute; top: 0; right: 0; bottom: 0; left: 0; background: linear-gradient(to top, rgba(38,40,48,.95) 0%, rgba(38,40,48,.62) 36%, rgba(38,40,48,0) 66%); }
+.v::after { content: ""; position: absolute; top: 0; right: 0; bottom: 0; left: 0; border: 1px solid var(--ramme); pointer-events: none; }
+.v .t { display: block; position: absolute; left: 11px; right: 11px; bottom: 10px; }
+.v .h {
+  display: block;
+  font-family: var(--display); font-weight: 400; font-size: 19px; line-height: 1.05;
+  display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;
+}
+.v .p { display: block; font-size: 12.5px; line-height: 1.3; margin-top: 4px; }
+.play { position: absolute; top: 9px; right: 9px; width: 26px; height: 26px; border-radius: 50%; background: rgba(38,40,48,.55); border: 1px solid rgba(229,227,228,.6); }
+.play::before { content: ""; position: absolute; left: 9.5px; top: 7px; border-left: 8px solid var(--porselen); border-top: 5.5px solid transparent; border-bottom: 5.5px solid transparent; }
+.v.tip { display: flex; align-items: flex-end; padding: 12px; background: transparent; border: 1px solid var(--linje); }
+.v.tip::after { display: none; }
+@supports not (aspect-ratio: 1 / 1) { .v.tip::before { padding-top: 0; } .v.tip { min-height: 150px; } }
+.v.tip .h { font-size: 19px; }
+.v.tip .p { color: var(--syrin); }
+
+/* Merket «Solgt» */
+.badge {
+  position: absolute; left: 6px; top: 6px; z-index: 1;
+  background: var(--msyrin); color: var(--syrin);
+  font-family: var(--text); font-weight: 700; font-size: 10.5px; line-height: 1;
+  text-transform: uppercase; letter-spacing: .06em; padding: 4px 7px 3px;
+}
+
+/* Filtre: vanlige nedtrekkslister, så telefonens egen velger brukes. */
+.filters { display: none; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 8px; margin: 0 0 14px; }
+.js .filters { display: grid; }
+.chip { position: relative; display: block; min-width: 0; }
+.chip:first-child { grid-column: 1 / -1; }
+.chip select {
+  -webkit-appearance: none; appearance: none;
+  width: 100%; max-width: 100%;
+  font-family: var(--text); font-weight: 300; font-size: 16px; line-height: 1.2;
+  color: var(--porselen); background-color: transparent;
+  border: 1px solid rgba(229,227,228,.32); border-radius: 20px;
+  padding: 7px 30px 7px 13px; min-height: 38px;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6' viewBox='0 0 10 6'%3E%3Cpath d='M1 1l4 4 4-4' fill='none' stroke='%23A6A4A8' stroke-width='1.3'/%3E%3C/svg%3E");
+  background-repeat: no-repeat; background-position: right 12px center;
+  text-overflow: ellipsis; white-space: nowrap; overflow: hidden;
+  cursor: pointer;
+}
+.chip select.on { border-color: var(--syrin); color: var(--syrin); }
+.chip select option { color: #111; background: #fff; }
+.filter-status { display: none; justify-content: space-between; align-items: baseline; gap: 12px; margin: -4px 0 12px; font-size: 12.5px; color: var(--dempet); }
+.js .filter-status.on { display: flex; }
+.linkbtn { background: none; border: 0; padding: 6px 0; color: var(--syrin); font-size: 12.5px; cursor: pointer; text-decoration: underline; text-underline-offset: 3px; }
+.empty { margin: 4px 0 0; padding: 18px; border: 1px solid var(--linje); font-size: 14px; text-align: center; }
+
+/* Boligkort */
+.cards { row-gap: 20px; }
+.card { display: block; min-width: 0; }
+.card .a, .card .o, .card .pr { display: block; }
+.card .a { font-size: 14.5px; line-height: 1.3; margin-top: 8px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.card .o { font-size: 12.5px; line-height: 1.3; color: var(--dempet); margin-top: 1px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.card .pr { font-family: var(--display); font-weight: 400; font-size: 18.5px; line-height: 1.1; color: var(--kobber-lys); margin-top: 4px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.card .pr small { font-family: var(--text); font-weight: 300; font-size: 12.5px; color: var(--dempet); margin-left: 4px; }
+.js .cards.limit .card.more { display: none; }
+
+.btn, .btn-o {
+  display: flex; align-items: center; justify-content: center; width: 100%;
+  min-height: 48px; padding: 12px 16px; border-radius: 0; cursor: pointer;
+  font-family: var(--text); font-weight: 700; font-size: 12.5px; line-height: 1.2;
+  text-transform: uppercase; letter-spacing: .08em; text-align: center;
+}
+.btn { background: var(--syrin); color: var(--skygge); border: 0; }
+.btn:active { background: #e3a9ea; }
+.btn-o { margin-top: 18px; background: transparent; color: var(--porselen); border: 1px solid rgba(229,227,228,.4); }
+.btn-o:active { background: rgba(229,227,228,.06); }
+#vis-alle { display: none; }
+.js #vis-alle { display: flex; }
+.js .cards:not(.limit) ~ #vis-alle { display: none; }
+
+/* Nylig solgt */
+.sold { grid-template-columns: repeat(3, 1fr); gap: 8px; row-gap: 14px; }
+.sold .a { display: block; font-size: 12.5px; line-height: 1.3; margin-top: 6px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+
+/* Skal du selge? */
+.sell { background: var(--msyrin); padding: 22px 18px 18px; }
+.sell h2 { margin: 0; font-family: var(--display); font-weight: 400; font-size: 26px; line-height: 1.05; }
+.sell .btn { margin-top: 16px; }
+
+/* Meglerne: rad du sveiper, som høydepunktene på Instagram. */
+.brokers {
+  display: flex; gap: 10px; overflow-x: auto; overflow-y: hidden;
+  margin: 0 -16px; padding: 4px 16px 8px;
+  -webkit-overflow-scrolling: touch; scroll-snap-type: x proximity; scroll-padding: 0 16px; scrollbar-width: none;
+  -webkit-mask-image: linear-gradient(to right, #000 85%, transparent);
+  mask-image: linear-gradient(to right, #000 85%, transparent);
+}
+.brokers::-webkit-scrollbar { display: none; }
+.broker { display: block; flex: 0 0 78px; text-align: center; scroll-snap-align: start; }
+.broker .c { display: block; width: 64px; height: 64px; margin: 0 auto; border-radius: 50%; overflow: hidden; background: var(--skygge-lys); box-shadow: 0 0 0 2px var(--skygge), 0 0 0 3px var(--ramme); }
+.broker .c img { width: 100%; height: 100%; object-fit: cover; }
+.broker .n { display: block; font-size: 12px; line-height: 1.25; margin-top: 9px; }
+.brokers-hint { font-size: 12.5px; color: var(--dempet); margin: 6px 0 0; }
+
+/* Kontakt */
+.contact-list { list-style: none; margin: 0; padding: 0; border-top: 1px solid var(--linje); }
+.contact-list a { display: flex; align-items: center; gap: 14px; min-height: 64px; padding: 12px 2px; border-bottom: 1px solid var(--linje); }
+.contact-list a:active { background: rgba(229,227,228,.04); }
+.contact-list .ic { flex: 0 0 38px; width: 38px; height: 38px; border-radius: 50%; border: 1px solid var(--ramme); display: flex; align-items: center; justify-content: center; }
+.contact-list .ic svg { width: 18px; height: 18px; }
+.contact-list .tx { flex: 1 1 auto; min-width: 0; }
+.contact-list .tx b { display: block; font-family: var(--display); font-weight: 400; font-size: 19px; line-height: 1.15; }
+.contact-list .tx span { display: block; font-size: 12.5px; color: var(--dempet); margin-top: 1px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.contact-list .go { flex: 0 0 auto; color: var(--dempet); }
+
+/* Bunnen: logo med luft lik logoens høyde over og under. */
+.foot { text-align: center; padding-top: 92px; }
+.foot .logo-st { width: 200px; height: auto; margin: 0 auto; }
+.foot .addr { margin-top: 92px; font-size: 12.5px; line-height: 1.75; color: var(--dempet); }
+.foot .addr a { color: var(--porselen); }
+.foot .updated { margin: 16px 0 0; font-size: 11.5px; line-height: 1.5; color: var(--dempet); opacity: .85; }
+
+/* Kontaktknappen som alltid ligger nederst */
+.bar {
+  position: fixed; left: 0; right: 0; bottom: 0; z-index: 20;
+  padding: 12px 16px calc(12px + env(safe-area-inset-bottom));
+  background: rgba(38,40,48,.97); border-top: 1px solid var(--linje);
+}
+@supports ((-webkit-backdrop-filter: blur(10px)) or (backdrop-filter: blur(10px))) {
+  .bar { background: rgba(38,40,48,.86); -webkit-backdrop-filter: blur(12px); backdrop-filter: blur(12px); }
+}
+.bar .btn { max-width: 448px; margin: 0 auto; }
+
+/* Kontaktark */
+.scrim { position: fixed; top: 0; right: 0; bottom: 0; left: 0; z-index: 30; background: rgba(12,12,16,.6); opacity: 0; transition: opacity .2s ease; }
+.scrim.open { opacity: 1; }
+.sheet {
+  position: fixed; left: 0; right: 0; bottom: 0; z-index: 31;
+  max-width: 480px; margin: 0 auto; max-height: 92vh; overflow-y: auto;
+  background: var(--skygge); border-top: 1px solid var(--ramme);
+  padding: 8px 16px calc(18px + env(safe-area-inset-bottom));
+  transform: translateY(105%); transition: transform .26s ease;
+}
+.sheet.open { transform: translateY(0); }
+.sheet .grab { width: 40px; height: 4px; border-radius: 2px; background: rgba(229,227,228,.25); margin: 4px auto 10px; }
+.sheet .head { display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px; }
+.sheet h2 { margin: 0; font-family: var(--display); font-weight: 400; font-size: 26px; line-height: 1.1; }
+.sheet .close { width: 44px; height: 44px; margin-right: -10px; background: none; border: 0; cursor: pointer; display: flex; align-items: center; justify-content: center; }
+.no-scroll { overflow: hidden; }
+
+@media (prefers-reduced-motion: reduce) {
+  .scrim, .sheet { transition: none; }
+}
+@media (min-width: 520px) {
+  .top h1 { font-size: 38px; }
+}
