@@ -22,7 +22,7 @@ concurrency:
 
 jobs:
   bygg:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     timeout-minutes: 25
     outputs:
       feed: ${{ steps.feed.outputs.kode }}
@@ -85,7 +85,7 @@ jobs:
 
   publiser:
     needs: bygg
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     timeout-minutes: 10
     environment:
       name: github-pages
@@ -98,7 +98,7 @@ jobs:
     # Siden er publisert med siste gode data, men de er for gamle. Feiler med vilje, så GitHub sender e-post.
     needs: [bygg, publiser]
     if: needs.bygg.outputs.gammel == 'ja'
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
       - run: |
           echo "::error::Har ikke klart å hente boliger fra privatmegleren.no på flere timer (siste kode ${{ needs.bygg.outputs.feed }}). Siden viser eldre data. Se README, «Når noe feiler»."
