@@ -1,7 +1,7 @@
 {
- "fetched_at": "2026-11-09T16:25:47+00:00",
+ "fetched_at": "2026-11-10T04:56:58+00:00",
  "source": "https://privatmegleren.no/aksept",
- "total_for_sale": 70,
+ "total_for_sale": 68,
  "for_sale": [
   {
    "estateId": "3851576",
@@ -786,40 +786,6 @@
    ]
   },
   {
-   "estateId": "139098",
-   "assignmentNumber": "92260562",
-   "type": "Leilighet",
-   "ownershipType": "Aksje",
-   "assignmentType": "Sale",
-   "isProjectMaster": false,
-   "streetAddress": "Bjerregaards gate 56 F",
-   "localArea": "St. Hanshaugen",
-   "municipalityArea": "St. Hanshaugen - Ullevål",
-   "municipalityName": "Oslo",
-   "postalPlace": "Oslo",
-   "sold": false,
-   "soldAt": null,
-   "publishedAt": "2026-10-28T16:02:03.963Z",
-   "prices": {
-    "askingPrice": 7100000,
-    "askingPriceTo": null
-   },
-   "size": {
-    "grossInternalArea": 78,
-    "grossInternalAreaTo": null,
-    "usableArea": 85,
-    "usableAreaTo": null,
-    "primaryArea": null,
-    "primaryAreaTo": null
-   },
-   "images": [
-    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/22/3/479/291/273_889388c5-089a-4f79-bd54-b93aab968a7d.jpg",
-    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/22/3/479/291/273_be31fb13-6667-4779-acd9-8386d5901320.jpg",
-    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/22/3/479/291/273_4889e01c-c27d-4196-bff1-2586ca68fb7f.jpg",
-    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/22/3/479/291/273_550b79c2-4c57-43eb-a7bd-d7974828c657.jpg"
-   ]
-  },
-  {
    "estateId": "136065",
    "assignmentNumber": "92260543",
    "type": "Leilighet",
@@ -953,40 +919,6 @@
     "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/24/7/479/470/707_6a194d2f-7cd2-412f-8c53-c40dc78eac98.jpg",
     "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/24/7/479/470/707_5933386f-f4f9-4986-ab6a-e709cd77ceef.jpg",
     "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/24/7/479/470/707_93168573-465a-45e6-aa1b-7a08f586f0a8.jpg"
-   ]
-  },
-  {
-   "estateId": "136129",
-   "assignmentNumber": "92260520",
-   "type": "Leilighet",
-   "ownershipType": "Eier (Selveier)",
-   "assignmentType": "Sale",
-   "isProjectMaster": false,
-   "streetAddress": "Hans Nielsen Hauges gate 29 D",
-   "localArea": "ØVRE TORSHOV",
-   "municipalityArea": "Sagene - Torshov",
-   "municipalityName": "Oslo",
-   "postalPlace": "Oslo",
-   "sold": false,
-   "soldAt": null,
-   "publishedAt": "2026-10-25T18:00:23.917Z",
-   "prices": {
-    "askingPrice": 11650000,
-    "askingPriceTo": null
-   },
-   "size": {
-    "grossInternalArea": 84,
-    "grossInternalAreaTo": null,
-    "usableArea": 91,
-    "usableAreaTo": null,
-    "primaryArea": null,
-    "primaryAreaTo": null
-   },
-   "images": [
-    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/02/7/477/820/107_a8c95837-f04e-4488-babc-1bb8e1d3b66f.jpg",
-    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/02/7/477/820/107_6998c1e7-1d1b-4115-94b7-b24e2102c7e7.jpg",
-    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/02/7/477/820/107_5f967e74-b41b-40b2-94a6-5095b3a0d9a6.jpg",
-    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/02/7/477/820/107_f2ea8d33-dd8a-49ab-ae58-cbec1803f7c4.jpg"
    ]
   },
   {
@@ -2384,6 +2316,40 @@
  ],
  "sold": [
   {
+   "estateId": "139098",
+   "assignmentNumber": "92260562",
+   "type": "Leilighet",
+   "ownershipType": "Aksje",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Bjerregaards gate 56 F",
+   "localArea": "St. Hanshaugen",
+   "municipalityArea": "St. Hanshaugen - Ullevål",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": true,
+   "soldAt": "2026-11-09T19:14:47.981Z",
+   "publishedAt": "2026-10-28T16:02:03.963Z",
+   "prices": {
+    "askingPrice": 7100000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 78,
+    "grossInternalAreaTo": null,
+    "usableArea": 85,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/22/3/479/291/273_889388c5-089a-4f79-bd54-b93aab968a7d.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/22/3/479/291/273_be31fb13-6667-4779-acd9-8386d5901320.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/22/3/479/291/273_4889e01c-c27d-4196-bff1-2586ca68fb7f.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/22/3/479/291/273_550b79c2-4c57-43eb-a7bd-d7974828c657.jpg"
+   ]
+  },
+  {
    "estateId": "135499",
    "assignmentNumber": "92260515",
    "type": "Leilighet",
@@ -2755,40 +2721,6 @@
     "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/22/7/479/316/747_d7bda18f-2fca-41bc-a616-d12661d72b5f.jpg",
     "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/22/7/479/316/747_7a50f875-870f-488c-b03a-ad6444b66987.jpg",
     "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/22/7/479/316/747_cfb0250c-d974-4aaf-a037-a1c42b9defe1.jpg"
-   ]
-  },
-  {
-   "estateId": "3851578",
-   "assignmentNumber": "92250654",
-   "type": "Leilighet",
-   "ownershipType": "Eier (Selveier)",
-   "assignmentType": "Sale",
-   "isProjectMaster": false,
-   "streetAddress": "Sandakerveien 137D",
-   "localArea": "Nydalen",
-   "municipalityArea": "Sagene-Torshov",
-   "municipalityName": "Oslo",
-   "postalPlace": "Oslo",
-   "sold": true,
-   "soldAt": "2026-11-01T23:00:00.000Z",
-   "publishedAt": "2026-10-25T19:30:00.000Z",
-   "prices": {
-    "askingPrice": 3875000,
-    "askingPriceTo": null
-   },
-   "size": {
-    "grossInternalArea": 30,
-    "grossInternalAreaTo": null,
-    "usableArea": 30,
-    "usableAreaTo": null,
-    "primaryArea": null,
-    "primaryAreaTo": null
-   },
-   "images": [
-    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/25/0/479/588/240_789c9efe-61f7-4e74-9179-8df9c6a79911.jpg",
-    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/25/0/479/588/240_287488b9-d634-4e00-b85a-052e31863e65.jpg",
-    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/25/0/479/588/240_b03f9939-319a-4f44-9b02-779b5aad8654.jpg",
-    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/25/0/479/588/240_d0f9613d-c9b1-40af-b32f-f0bdba64161f.jpg"
    ]
   }
  ],
