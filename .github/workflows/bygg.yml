@@ -36,9 +36,13 @@ jobs:
           cache: pip
 
       - name: Installer verktøy
+        # Byggemaskinen har det nettleseren trenger fra før. Systempakker hentes bare
+        # hvis nettleseren ikke starter, fordi Ubuntu-speilet av og til bruker minutter på dem.
         run: |
           pip install -r requirements.txt
-          python -m playwright install --with-deps --only-shell chromium
+          python -m playwright install --only-shell chromium
+          python -c "from playwright.sync_api import sync_playwright as s; p = s().start(); p.chromium.launch().close(); p.stop()" \
+            || python -m playwright install-deps chromium
 
       - name: Hent boliger fra privatmegleren.no
         id: feed
