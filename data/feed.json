@@ -1,8 +1,42 @@
 {
- "fetched_at": "2026-11-10T13:27:39+00:00",
+ "fetched_at": "2026-11-10T20:48:39+00:00",
  "source": "https://privatmegleren.no/aksept",
  "total_for_sale": 65,
  "for_sale": [
+  {
+   "estateId": "137624",
+   "assignmentNumber": "92260563",
+   "type": "Annet",
+   "ownershipType": "Eier (Selveier)",
+   "assignmentType": "Commercial",
+   "isProjectMaster": false,
+   "streetAddress": "Sverdrups gate 16 B",
+   "localArea": "Grunerløkka",
+   "municipalityArea": "Grünerløkka - Sofienberg",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-11-10T19:24:10.370Z",
+   "prices": {
+    "askingPrice": 2850000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": null,
+    "grossInternalAreaTo": null,
+    "usableArea": null,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://rt-gateway.reeltime.no/proxy/webtop/pm/137624/image/9beb69ec-e398-4652-9886-e04c10871f3c/Large",
+    "https://rt-gateway.reeltime.no/proxy/webtop/pm/137624/image/bcecf97b-ec17-4b2a-8d58-5f72f797ed38/Large",
+    "https://rt-gateway.reeltime.no/proxy/webtop/pm/137624/image/2546bb2d-b5c3-45fe-9352-e91b3fffa769/Large",
+    "https://rt-gateway.reeltime.no/proxy/webtop/pm/137624/image/134678d9-5352-401e-87d2-f4b90c2db4d5/Large"
+   ]
+  },
   {
    "estateId": "3851576",
    "assignmentNumber": "92250652",
@@ -1160,40 +1194,6 @@
    ]
   },
   {
-   "estateId": "103884",
-   "assignmentNumber": "92260522",
-   "type": "Leilighet",
-   "ownershipType": "Eier (Selveier)",
-   "assignmentType": "Sale",
-   "isProjectMaster": false,
-   "streetAddress": "Holmenveien 22B",
-   "localArea": "Fjordutsikt på Vinderen!",
-   "municipalityArea": "Vinderen",
-   "municipalityName": "Oslo",
-   "postalPlace": "Oslo",
-   "sold": false,
-   "soldAt": null,
-   "publishedAt": "2026-10-03T12:09:11.592Z",
-   "prices": {
-    "askingPrice": 11490000,
-    "askingPriceTo": null
-   },
-   "size": {
-    "grossInternalArea": 126,
-    "grossInternalAreaTo": null,
-    "usableArea": 126,
-    "usableAreaTo": null,
-    "primaryArea": 126,
-    "primaryAreaTo": null
-   },
-   "images": [
-    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/21/4/476/710/944_6e7baf5c-aeb9-4999-ac52-ff4868c1bff6.jpg",
-    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/21/4/476/710/944_afc91b32-9a39-4f47-a6a5-5dfb862b59a6.jpg",
-    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/01/4/476/710/944_bc562371-2e5a-4841-b1c3-990d875fd49e.jpg",
-    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/01/4/476/710/944_a90a4e23-1e6b-4080-9383-99e76beb43b2.jpg"
-   ]
-  },
-  {
    "estateId": "135541",
    "assignmentNumber": "92260524",
    "type": "Enebolig",
@@ -2214,6 +2214,40 @@
  ],
  "sold": [
   {
+   "estateId": "103884",
+   "assignmentNumber": "92260522",
+   "type": "Leilighet",
+   "ownershipType": "Eier (Selveier)",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Holmenveien 22B",
+   "localArea": "Fjordutsikt på Vinderen!",
+   "municipalityArea": "Vinderen",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": true,
+   "soldAt": "2026-11-10T16:54:17.034Z",
+   "publishedAt": "2026-10-03T12:09:11.592Z",
+   "prices": {
+    "askingPrice": 11490000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 126,
+    "grossInternalAreaTo": null,
+    "usableArea": 126,
+    "usableAreaTo": null,
+    "primaryArea": 126,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/21/4/476/710/944_6e7baf5c-aeb9-4999-ac52-ff4868c1bff6.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/21/4/476/710/944_afc91b32-9a39-4f47-a6a5-5dfb862b59a6.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/01/4/476/710/944_bc562371-2e5a-4841-b1c3-990d875fd49e.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/01/4/476/710/944_a90a4e23-1e6b-4080-9383-99e76beb43b2.jpg"
+   ]
+  },
+  {
    "estateId": "140145",
    "assignmentNumber": "92260564",
    "type": "Leilighet",
@@ -2585,40 +2619,6 @@
     "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/30/8/479/834/558_ad3424a3-f8eb-4b52-8acc-63af726d985c.jpg",
     "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/30/8/479/834/558_7ff25570-25ed-4e3b-bb4d-145866ed8ab2.jpg",
     "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/30/8/479/834/558_2c5c6231-3f4c-46a4-9e40-dc6f6eb93ad5.jpg"
-   ]
-  },
-  {
-   "estateId": "137495",
-   "assignmentNumber": "92260558",
-   "type": "Leilighet",
-   "ownershipType": "Andel",
-   "assignmentType": "Sale",
-   "isProjectMaster": false,
-   "streetAddress": "Fredrikke Qvams gate 21",
-   "localArea": "St. Hanshaugen",
-   "municipalityArea": "St. Hanshaugen - Ullevål",
-   "municipalityName": "Oslo",
-   "postalPlace": "Oslo",
-   "sold": true,
-   "soldAt": "2026-11-03T12:56:49.680Z",
-   "publishedAt": "2026-10-25T10:00:24.075Z",
-   "prices": {
-    "askingPrice": 6500000,
-    "askingPriceTo": null
-   },
-   "size": {
-    "grossInternalArea": 71,
-    "grossInternalAreaTo": null,
-    "usableArea": 83,
-    "usableAreaTo": null,
-    "primaryArea": null,
-    "primaryAreaTo": null
-   },
-   "images": [
-    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/24/9/479/380/159_8e9652b0-ea05-4475-a7f3-0f81587e91aa.jpg",
-    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/24/9/479/380/159_1191b440-bad4-4d04-94d9-dcebaa84674e.jpg",
-    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/24/9/479/380/159_19c1c111-b241-46fa-975f-8b5e513ffc6b.jpg",
-    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/24/9/479/380/159_502412ae-970c-47b2-a660-e790088344a7.jpg"
    ]
   }
  ],
