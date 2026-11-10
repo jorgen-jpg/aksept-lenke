@@ -1,7 +1,7 @@
 {
- "fetched_at": "2026-11-10T04:56:58+00:00",
+ "fetched_at": "2026-11-10T13:27:39+00:00",
  "source": "https://privatmegleren.no/aksept",
- "total_for_sale": 68,
+ "total_for_sale": 65,
  "for_sale": [
   {
    "estateId": "3851576",
@@ -443,74 +443,6 @@
     "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/05/4/475/592/884_bdd8bb6c-a570-402a-ab2e-a85c495bbfec.jpg",
     "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/05/4/475/592/884_c95eff83-5ea0-453a-a579-4acd2f048a50.jpg",
     "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/05/4/475/592/884_8b095da6-8722-4c2a-ae8b-356ffb76772f.jpg"
-   ]
-  },
-  {
-   "estateId": "140145",
-   "assignmentNumber": "92260564",
-   "type": "Leilighet",
-   "ownershipType": "Eier (Selveier)",
-   "assignmentType": "Sale",
-   "isProjectMaster": false,
-   "streetAddress": "Welhavens gate 9 A",
-   "localArea": "Homansbyen",
-   "municipalityArea": "Uranienborg - Majorstuen",
-   "municipalityName": "Oslo",
-   "postalPlace": "Oslo",
-   "sold": false,
-   "soldAt": null,
-   "publishedAt": "2026-11-01T18:03:14.209Z",
-   "prices": {
-    "askingPrice": 4490000,
-    "askingPriceTo": null
-   },
-   "size": {
-    "grossInternalArea": 37,
-    "grossInternalAreaTo": null,
-    "usableArea": 40,
-    "usableAreaTo": null,
-    "primaryArea": null,
-    "primaryAreaTo": null
-   },
-   "images": [
-    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/31/9/479/996/639_781f3a56-8d69-43af-811a-5eabcdb55a75.jpg",
-    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/31/9/479/996/639_d7bf02b7-c034-42d4-80ad-3905d255354a.jpg",
-    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/31/9/479/996/639_c9f05eb1-74a0-45d6-a705-d4b98365fbe4.jpg",
-    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/31/9/479/996/639_d822e791-5aef-4f69-bf1b-0ad5508893c3.jpg"
-   ]
-  },
-  {
-   "estateId": "139799",
-   "assignmentNumber": "92260556",
-   "type": "Leilighet",
-   "ownershipType": "Andel",
-   "assignmentType": "Sale",
-   "isProjectMaster": false,
-   "streetAddress": "Kongsvingergata 9 E",
-   "localArea": "I hjertet av Sagene",
-   "municipalityArea": "Sagene - Torshov",
-   "municipalityName": "Oslo",
-   "postalPlace": "Oslo",
-   "sold": false,
-   "soldAt": null,
-   "publishedAt": "2026-11-01T17:58:45.912Z",
-   "prices": {
-    "askingPrice": 4500000,
-    "askingPriceTo": null
-   },
-   "size": {
-    "grossInternalArea": 38,
-    "grossInternalAreaTo": null,
-    "usableArea": 50,
-    "usableAreaTo": null,
-    "primaryArea": null,
-    "primaryAreaTo": null
-   },
-   "images": [
-    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/31/9/479/986/249_457ffcb5-d272-4637-a693-ed67765df1c2.jpg",
-    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/31/9/479/986/249_6fd92ac6-a122-4969-a902-68961606e584.jpg",
-    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/31/9/479/986/249_f0500f2c-caea-42fb-a17c-9848223dcdf1.jpg",
-    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/31/9/479/986/249_aed63231-bee0-4137-9157-10b0b69d73c3.jpg"
    ]
   },
   {
@@ -1359,40 +1291,6 @@
     "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/02/4/477/780/094_66df96c6-941c-430c-afd3-f27ea8582189.jpg",
     "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/02/4/477/780/094_856cd380-2a57-4d73-98c1-ad89571d6d79.jpg",
     "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/02/4/477/780/094_e9723092-824c-4e0f-be94-6f6f5f789bf5.jpg"
-   ]
-  },
-  {
-   "estateId": "121452",
-   "assignmentNumber": "92260357",
-   "type": "Leilighet",
-   "ownershipType": "Eier (Selveier)",
-   "assignmentType": "Sale",
-   "isProjectMaster": false,
-   "streetAddress": "Vidars gate 9 A",
-   "localArea": "ADAMSTUEN / BISLETT",
-   "municipalityArea": "St. Hanshaugen - Ullevål",
-   "municipalityName": "Oslo",
-   "postalPlace": "Oslo",
-   "sold": false,
-   "soldAt": null,
-   "publishedAt": "2026-10-02T12:05:02.064Z",
-   "prices": {
-    "askingPrice": 8500000,
-    "askingPriceTo": null
-   },
-   "size": {
-    "grossInternalArea": 70,
-    "grossInternalAreaTo": null,
-    "usableArea": 79,
-    "usableAreaTo": null,
-    "primaryArea": null,
-    "primaryAreaTo": null
-   },
-   "images": [
-    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/01/4/477/732/104_ade0e0ec-8607-440d-b705-e72ed19a5216.jpg",
-    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/01/4/477/732/104_a4b78867-ceab-419f-b73a-8c675f905454.jpg",
-    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/01/4/477/732/104_dd5c204e-9dc1-43e2-8ad0-43ccb30df270.jpg",
-    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/01/4/477/732/104_16bceef7-6fd9-4791-bb92-1754a490720e.jpg"
    ]
   },
   {
@@ -2316,6 +2214,108 @@
  ],
  "sold": [
   {
+   "estateId": "140145",
+   "assignmentNumber": "92260564",
+   "type": "Leilighet",
+   "ownershipType": "Eier (Selveier)",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Welhavens gate 9 A",
+   "localArea": "Homansbyen",
+   "municipalityArea": "Uranienborg - Majorstuen",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": true,
+   "soldAt": "2026-11-10T13:21:40.248Z",
+   "publishedAt": "2026-11-01T18:03:14.209Z",
+   "prices": {
+    "askingPrice": 4490000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 37,
+    "grossInternalAreaTo": null,
+    "usableArea": 40,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/31/9/479/996/639_781f3a56-8d69-43af-811a-5eabcdb55a75.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/31/9/479/996/639_d7bf02b7-c034-42d4-80ad-3905d255354a.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/31/9/479/996/639_c9f05eb1-74a0-45d6-a705-d4b98365fbe4.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/31/9/479/996/639_d822e791-5aef-4f69-bf1b-0ad5508893c3.jpg"
+   ]
+  },
+  {
+   "estateId": "139799",
+   "assignmentNumber": "92260556",
+   "type": "Leilighet",
+   "ownershipType": "Andel",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Kongsvingergata 9 E",
+   "localArea": "I hjertet av Sagene",
+   "municipalityArea": "Sagene - Torshov",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": true,
+   "soldAt": "2026-11-10T12:05:58.730Z",
+   "publishedAt": "2026-11-01T17:58:45.912Z",
+   "prices": {
+    "askingPrice": 4500000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 38,
+    "grossInternalAreaTo": null,
+    "usableArea": 50,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/31/9/479/986/249_457ffcb5-d272-4637-a693-ed67765df1c2.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/31/9/479/986/249_6fd92ac6-a122-4969-a902-68961606e584.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/31/9/479/986/249_f0500f2c-caea-42fb-a17c-9848223dcdf1.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/31/9/479/986/249_aed63231-bee0-4137-9157-10b0b69d73c3.jpg"
+   ]
+  },
+  {
+   "estateId": "121452",
+   "assignmentNumber": "92260357",
+   "type": "Leilighet",
+   "ownershipType": "Eier (Selveier)",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Vidars gate 9 A",
+   "localArea": "ADAMSTUEN / BISLETT",
+   "municipalityArea": "St. Hanshaugen - Ullevål",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": true,
+   "soldAt": "2026-11-10T10:29:49.776Z",
+   "publishedAt": "2026-10-02T12:05:02.064Z",
+   "prices": {
+    "askingPrice": 8500000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 70,
+    "grossInternalAreaTo": null,
+    "usableArea": 79,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/01/4/477/732/104_ade0e0ec-8607-440d-b705-e72ed19a5216.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/01/4/477/732/104_a4b78867-ceab-419f-b73a-8c675f905454.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/01/4/477/732/104_dd5c204e-9dc1-43e2-8ad0-43ccb30df270.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/01/4/477/732/104_16bceef7-6fd9-4791-bb92-1754a490720e.jpg"
+   ]
+  },
+  {
    "estateId": "139098",
    "assignmentNumber": "92260562",
    "type": "Leilighet",
@@ -2619,108 +2619,6 @@
     "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/24/9/479/380/159_1191b440-bad4-4d04-94d9-dcebaa84674e.jpg",
     "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/24/9/479/380/159_19c1c111-b241-46fa-975f-8b5e513ffc6b.jpg",
     "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/24/9/479/380/159_502412ae-970c-47b2-a660-e790088344a7.jpg"
-   ]
-  },
-  {
-   "estateId": "131415",
-   "assignmentNumber": "92260452",
-   "type": "Leilighet",
-   "ownershipType": "Andel",
-   "assignmentType": "Sale",
-   "isProjectMaster": false,
-   "streetAddress": "Helgesens gate 20 B",
-   "localArea": "Grünerløkka ved Birkelunden",
-   "municipalityArea": "Grünerløkka - Sofienberg",
-   "municipalityName": "Oslo",
-   "postalPlace": "Oslo",
-   "sold": true,
-   "soldAt": "2026-11-03T08:58:18.922Z",
-   "publishedAt": "2026-11-01T19:23:15.255Z",
-   "prices": {
-    "askingPrice": 5600000,
-    "askingPriceTo": null
-   },
-   "size": {
-    "grossInternalArea": 53,
-    "grossInternalAreaTo": null,
-    "usableArea": 53,
-    "usableAreaTo": null,
-    "primaryArea": 53,
-    "primaryAreaTo": null
-   },
-   "images": [
-    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/11/7/476/122/547_305416ec-c1a3-42ff-bd65-78ae9f212b13.jpg",
-    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/11/7/476/122/547_a8e2e18f-e409-4d65-b9a7-7762d997a080.jpg",
-    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/11/7/476/122/547_4f1967cd-cebd-4b51-8d9c-265fec0428b5.jpg",
-    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/11/7/476/122/547_386e3eda-43b6-4efb-afb1-e4ef1a3e6740.jpg"
-   ]
-  },
-  {
-   "estateId": "136533",
-   "assignmentNumber": "92260540",
-   "type": "Leilighet",
-   "ownershipType": "Eier (Selveier)",
-   "assignmentType": "Sale",
-   "isProjectMaster": false,
-   "streetAddress": "Sandakerveien 110",
-   "localArea": "ETTERTRAKTET PÅ LILLO GÅRD",
-   "municipalityArea": "Sagene - Torshov",
-   "municipalityName": "Oslo",
-   "postalPlace": "Oslo",
-   "sold": true,
-   "soldAt": "2026-11-02T13:52:55.680Z",
-   "publishedAt": "2026-10-25T16:19:46.789Z",
-   "prices": {
-    "askingPrice": 4850000,
-    "askingPriceTo": null
-   },
-   "size": {
-    "grossInternalArea": 44,
-    "grossInternalAreaTo": null,
-    "usableArea": 53,
-    "usableAreaTo": null,
-    "primaryArea": null,
-    "primaryAreaTo": null
-   },
-   "images": [
-    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/10/1/478/362/871_a559a9ee-ab49-4b5c-bf0d-766ca4a2397c.jpg",
-    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/10/1/478/362/871_1e673aeb-3afd-461c-8c9f-2fbf44c501f4.jpg",
-    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/10/1/478/362/871_f632e0f9-1752-4054-8379-b996dfd277b3.jpg",
-    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/10/1/478/362/871_5b115dd6-ee7e-4f4d-95f6-e21223aec38b.jpg"
-   ]
-  },
-  {
-   "estateId": "140759",
-   "assignmentNumber": "92260575",
-   "type": "Leilighet",
-   "ownershipType": "Andel",
-   "assignmentType": "Sale",
-   "isProjectMaster": false,
-   "streetAddress": "Sannergata 17 B",
-   "localArea": "Grünerløkka ved Birkelunden",
-   "municipalityArea": "Sagene - Torshov",
-   "municipalityName": "Oslo",
-   "postalPlace": "Oslo",
-   "sold": true,
-   "soldAt": "2026-11-02T11:38:07.377Z",
-   "publishedAt": "2026-10-23T10:22:58.252Z",
-   "prices": {
-    "askingPrice": 6300000,
-    "askingPriceTo": null
-   },
-   "size": {
-    "grossInternalArea": 77,
-    "grossInternalAreaTo": null,
-    "usableArea": 86,
-    "usableAreaTo": null,
-    "primaryArea": null,
-    "primaryAreaTo": null
-   },
-   "images": [
-    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/22/7/479/316/747_8486025d-0b1e-4afa-abc4-c1aaf53707ba.jpg",
-    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/22/7/479/316/747_d7bda18f-2fca-41bc-a616-d12661d72b5f.jpg",
-    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/22/7/479/316/747_7a50f875-870f-488c-b03a-ad6444b66987.jpg",
-    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/22/7/479/316/747_cfb0250c-d974-4aaf-a037-a1c42b9defe1.jpg"
    ]
   }
  ],
