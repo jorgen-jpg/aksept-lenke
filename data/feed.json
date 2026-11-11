@@ -1,7 +1,7 @@
 {
- "fetched_at": "2026-11-11T15:32:30+00:00",
+ "fetched_at": "2026-11-11T22:17:22+00:00",
  "source": "https://privatmegleren.no/aksept",
- "total_for_sale": 64,
+ "total_for_sale": 62,
  "for_sale": [
   {
    "estateId": "137624",
@@ -681,40 +681,6 @@
     "https://images.finncdn.no/dynamic/1600w/2026/8/vertical-2/14/9/473/295/479_8008e943-2e25-4286-9666-d0d94901dfaf.jpg",
     "https://images.finncdn.no/dynamic/1600w/2026/8/vertical-2/14/9/473/295/479_601b53cf-4ddf-4502-8c3c-f96d3f8e39d0.jpg",
     "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/30/9/473/295/479_2cd329b5-789c-427b-b80d-ee1ddfb0614f.jpg"
-   ]
-  },
-  {
-   "estateId": "96085",
-   "assignmentNumber": "92251014",
-   "type": "Leilighet",
-   "ownershipType": "Eier (Selveier)",
-   "assignmentType": "Sale",
-   "isProjectMaster": false,
-   "streetAddress": "Sandakerveien 74A",
-   "localArea": "Sandaker/Storo",
-   "municipalityArea": "Sagene - Torshov",
-   "municipalityName": "Oslo",
-   "postalPlace": "Oslo",
-   "sold": false,
-   "soldAt": null,
-   "publishedAt": "2026-10-30T07:55:58.455Z",
-   "prices": {
-    "askingPrice": 7250000,
-    "askingPriceTo": null
-   },
-   "size": {
-    "grossInternalArea": 72,
-    "grossInternalAreaTo": null,
-    "usableArea": 77,
-    "usableAreaTo": null,
-    "primaryArea": null,
-    "primaryAreaTo": null
-   },
-   "images": [
-    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/30/3/448/640/173_2222140d-ba85-4761-b19f-fad968d68249.jpg",
-    "https://images.finncdn.no/dynamic/1600w/2026/1/vertical-2/30/3/448/640/173_12f25739-b3f2-4125-b003-8dfaf91d819e.jpg",
-    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/30/3/448/640/173_b923a826-8cc8-4a2f-9f44-9139009cbd09.jpg",
-    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/30/3/448/640/173_00e52857-adb9-4f41-b34b-2f3daf0f4ce5.jpg"
    ]
   },
   {
@@ -2008,40 +1974,6 @@
    ]
   },
   {
-   "estateId": "107656",
-   "assignmentNumber": "92260129",
-   "type": "Leilighet",
-   "ownershipType": "Eier (Selveier)",
-   "assignmentType": "Leisure",
-   "isProjectMaster": false,
-   "streetAddress": "Veslestølvegen 4",
-   "localArea": "",
-   "municipalityArea": "",
-   "municipalityName": "Ål",
-   "postalPlace": "Ål",
-   "sold": false,
-   "soldAt": null,
-   "publishedAt": "2026-03-27T16:11:52.272Z",
-   "prices": {
-    "askingPrice": 970000,
-    "askingPriceTo": null
-   },
-   "size": {
-    "grossInternalArea": 54,
-    "grossInternalAreaTo": null,
-    "usableArea": 58,
-    "usableAreaTo": null,
-    "primaryArea": null,
-    "primaryAreaTo": null
-   },
-   "images": [
-    "https://images.finncdn.no/dynamic/1600w/2026/8/vertical-2/31/3/457/509/783_cfaa6da5-1961-4cc0-b7e8-fb1122e33498.png",
-    "https://images.finncdn.no/dynamic/1600w/2026/8/vertical-2/19/3/457/509/783_15380c81-66e7-488a-93cc-780b2087dd3a.jpg",
-    "https://images.finncdn.no/dynamic/1600w/2026/8/vertical-2/26/3/457/509/783_3df545bb-5f1a-41bb-8b61-37b7c0dccc86.png",
-    "https://images.finncdn.no/dynamic/1600w/2026/3/vertical-2/27/3/457/509/783_ac24e716-65f8-4352-b1ff-00729b2273a8.jpg"
-   ]
-  },
-  {
    "estateId": "3851390",
    "assignmentNumber": "92250667",
    "type": "Enebolig",
@@ -2179,6 +2111,40 @@
   }
  ],
  "sold": [
+  {
+   "estateId": "107656",
+   "assignmentNumber": "92260129",
+   "type": "Leilighet",
+   "ownershipType": "Eier (Selveier)",
+   "assignmentType": "Leisure",
+   "isProjectMaster": false,
+   "streetAddress": "Veslestølvegen 4",
+   "localArea": "",
+   "municipalityArea": "",
+   "municipalityName": "Ål",
+   "postalPlace": "Ål",
+   "sold": true,
+   "soldAt": "2026-11-11T20:38:09.265Z",
+   "publishedAt": "2026-03-27T16:11:52.272Z",
+   "prices": {
+    "askingPrice": 970000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 54,
+    "grossInternalAreaTo": null,
+    "usableArea": 58,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/8/vertical-2/31/3/457/509/783_cfaa6da5-1961-4cc0-b7e8-fb1122e33498.png",
+    "https://images.finncdn.no/dynamic/1600w/2026/8/vertical-2/19/3/457/509/783_15380c81-66e7-488a-93cc-780b2087dd3a.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/8/vertical-2/26/3/457/509/783_3df545bb-5f1a-41bb-8b61-37b7c0dccc86.png",
+    "https://images.finncdn.no/dynamic/1600w/2026/3/vertical-2/27/3/457/509/783_ac24e716-65f8-4352-b1ff-00729b2273a8.jpg"
+   ]
+  },
   {
    "estateId": "103884",
    "assignmentNumber": "92260522",
@@ -2551,40 +2517,6 @@
     "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/16/0/478/856/260_b874781a-276d-49d2-9d00-58710ff1ad35.jpg",
     "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/16/0/478/856/260_10796ccf-9e74-43e2-a06c-692b304df100.jpg",
     "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/16/0/478/856/260_94a82d62-0962-4e86-9e68-3b3ce2ce95d8.png"
-   ]
-  },
-  {
-   "estateId": "140555",
-   "assignmentNumber": "92260580",
-   "type": "Leilighet",
-   "ownershipType": "Eier (Selveier)",
-   "assignmentType": "Sale",
-   "isProjectMaster": false,
-   "streetAddress": "Bygdøy allé 90",
-   "localArea": "Skarpsno / Frogner",
-   "municipalityArea": "Bygdøy - Frogner",
-   "municipalityName": "Oslo",
-   "postalPlace": "Oslo",
-   "sold": true,
-   "soldAt": "2026-11-04T12:36:34.914Z",
-   "publishedAt": "2026-10-30T08:09:50.045Z",
-   "prices": {
-    "askingPrice": 5790000,
-    "askingPriceTo": null
-   },
-   "size": {
-    "grossInternalArea": 53,
-    "grossInternalAreaTo": null,
-    "usableArea": 57,
-    "usableAreaTo": null,
-    "primaryArea": null,
-    "primaryAreaTo": null
-   },
-   "images": [
-    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/30/8/479/834/558_797de933-b523-4696-8f6e-5c7837699f07.jpg",
-    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/30/8/479/834/558_ad3424a3-f8eb-4b52-8acc-63af726d985c.jpg",
-    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/30/8/479/834/558_7ff25570-25ed-4e3b-bb4d-145866ed8ab2.jpg",
-    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/30/8/479/834/558_2c5c6231-3f4c-46a4-9e40-dc6f6eb93ad5.jpg"
    ]
   }
  ],
