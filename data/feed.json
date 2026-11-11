@@ -1,7 +1,7 @@
 {
- "fetched_at": "2026-11-11T11:52:27+00:00",
+ "fetched_at": "2026-11-11T15:32:30+00:00",
  "source": "https://privatmegleren.no/aksept",
- "total_for_sale": 65,
+ "total_for_sale": 64,
  "for_sale": [
   {
    "estateId": "137624",
@@ -613,40 +613,6 @@
     "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/30/1/479/917/951_962d5461-8b46-46ef-8e1a-cfc6d2e06f58.jpg",
     "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/30/1/479/917/951_028a734f-1c39-453f-94fa-45fc6a9f8f1b.jpg",
     "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/30/1/479/917/951_1be984c4-0e5e-408c-b6c4-75f730ed9769.jpg"
-   ]
-  },
-  {
-   "estateId": "141383",
-   "assignmentNumber": "92260578",
-   "type": "Leilighet",
-   "ownershipType": "Eier (Selveier)",
-   "assignmentType": "Sale",
-   "isProjectMaster": false,
-   "streetAddress": "Geitmyrsveien 7 D",
-   "localArea": "St. Hanshaugen",
-   "municipalityArea": "St. Hanshaugen - Ullevål",
-   "municipalityName": "Oslo",
-   "postalPlace": "Oslo",
-   "sold": false,
-   "soldAt": null,
-   "publishedAt": "2026-10-30T14:49:25.963Z",
-   "prices": {
-    "askingPrice": 14600000,
-    "askingPriceTo": null
-   },
-   "size": {
-    "grossInternalArea": 72,
-    "grossInternalAreaTo": null,
-    "usableArea": 78,
-    "usableAreaTo": null,
-    "primaryArea": null,
-    "primaryAreaTo": null
-   },
-   "images": [
-    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/30/9/479/910/559_97d2fdc8-ddd8-4929-8205-303e73527d1f.jpg",
-    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/30/9/479/910/559_0ad3c3bd-2ea6-43a6-8ad5-2da4d7ddde57.jpg",
-    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/30/9/479/910/559_71de2a17-2faf-4531-8067-6308cc9f9baf.jpg",
-    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/30/9/479/910/559_d2c466d8-2b0d-470a-b1cb-e9534d34e3a2.jpg"
    ]
   },
   {
