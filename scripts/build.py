@@ -347,7 +347,8 @@ def pick_videos(for_sale: list[dict], sold: list[dict]) -> tuple[list[dict], lis
     chosen: dict[str, dict] = {}
     skipped: list[dict] = []
     for r in rows:
-        ref = r.get("bolig") or r.get("oppdragsnummer") or r.get("ref. nr") or r.get("adresse") or ""
+        ref = (r.get("bolig") or r.get("oppdragsnummer") or r.get("oppdragsnr.") or r.get("oppdragsnr")
+               or r.get("ref. nr") or r.get("adresse") or "")
         if (r.get("vis") or "ja").lower() in ("nei", "n", "no", "0", "false", "skjul"):
             continue
         approved = (r.get("godkjent (y/n)") or r.get("godkjent") or "").lower()

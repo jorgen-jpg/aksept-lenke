@@ -1,12 +1,14 @@
 # Henter boligene fra privatmegleren.no, bygger lenkesiden, tester den og publiserer den.
-# Går hver time fra morgen til kveld, og når noen endrer noe i repoet.
+# Bygger omtrent hver time fra morgen til kveld, og når noen endrer noe i repoet.
 # Feiler noe, blir forrige versjon av siden liggende, og GitHub sender e-post.
 name: Bygg og publiser
 
 on:
   schedule:
-    # Klokkeslett i UTC: 05.17–23.17 norsk vintertid, 06.17–00.17 sommertid.
-    - cron: "17 4-22 * * *"
+    # GitHub hopper ofte over planlagte kjøringer (4 av rundt 30 gikk de første to døgnene).
+    # Derfor prøver vi hvert kvarter, og jobben «trenger» stopper forsøket når siden er
+    # under 50 minutter gammel. Klokkeslett i UTC: 05–23 norsk vintertid, 06–00 sommertid.
+    - cron: "7,22,37,52 4-22 * * *"
   workflow_dispatch:
   push:
     branches: [main]
@@ -21,7 +23,20 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  trenger:
+    # Planlagte forsøk bygger bare når siden er gammel nok. Alt annet bygger alltid.
+    runs-on: ubuntu-24.04
+    timeout-minutes: 3
+    outputs:
+      bygg: ${{ steps.sjekk.outputs.bygg }}
+    steps:
+      - uses: actions/checkout@v7
+      - id: sjekk
+        run: python3 scripts/trenger_bygg.py
+
   bygg:
+    needs: trenger
+    if: needs.trenger.outputs.bygg == 'ja'
     runs-on: ubuntu-24.04
     timeout-minutes: 25
     outputs:

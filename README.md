@@ -15,7 +15,7 @@ Alle henvendelser går til PMs egne sider, skjemaer, telefon og e-post. Siden sa
 
 ## Slik virker det
 
-Alt går av seg selv i GitHub Actions, hver time fra 05 til 23:
+Alt går av seg selv i GitHub Actions, omtrent hver time fra 05 til 23. GitHub hopper over mange planlagte kjøringer, så arbeidsflyten prøver hvert kvarter, og `scripts/trenger_bygg.py` stopper forsøket når siden er under 50 minutter gammel. Et bygg går slik:
 
 1. `scripts/fetch_feed.py` åpner privatmegleren.no/aksept i en vanlig nettleser og tar vare på boligene, de solgte og meglerne som siden selv laster. Vi sender ingen egne forespørsler til PMs feed. Bilder, fonter og sporing blokkeres, så besøkene ikke havner i PMs statistikk.
 2. `scripts/build.py` lager siden i `site/`, med kvadratiske bilder.
