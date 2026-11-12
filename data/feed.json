@@ -1,7 +1,7 @@
 {
- "fetched_at": "2026-11-12T06:40:35+00:00",
+ "fetched_at": "2026-11-12T10:02:42+00:00",
  "source": "https://privatmegleren.no/aksept",
- "total_for_sale": 62,
+ "total_for_sale": 61,
  "for_sale": [
   {
    "estateId": "137624",
@@ -103,40 +103,6 @@
     "https://images.finncdn.no/dynamic/1600w/2026/11/vertical-2/05/1/480/329/181_752af7a2-7c8b-4a23-9d43-a7dd578f75b4.jpg",
     "https://images.finncdn.no/dynamic/1600w/2026/11/vertical-2/08/1/480/329/181_2c22e344-c830-4d70-8009-735b77fd33fa.png",
     "https://images.finncdn.no/dynamic/1600w/2026/11/vertical-2/05/1/480/329/181_0eb79ef0-67cd-47e4-8f6e-7fa17b10c86a.jpg"
-   ]
-  },
-  {
-   "estateId": "131661",
-   "assignmentNumber": "92260472",
-   "type": "Leilighet",
-   "ownershipType": "Aksje",
-   "assignmentType": "Sale",
-   "isProjectMaster": false,
-   "streetAddress": "Fuglehauggata 10",
-   "localArea": "Vestkanttorget v/ Frognerparken",
-   "municipalityArea": "Bygdøy - Frogner",
-   "municipalityName": "Oslo",
-   "postalPlace": "Oslo",
-   "sold": false,
-   "soldAt": null,
-   "publishedAt": "2026-11-08T18:45:03.644Z",
-   "prices": {
-    "askingPrice": 8175000,
-    "askingPriceTo": null
-   },
-   "size": {
-    "grossInternalArea": 71,
-    "grossInternalAreaTo": null,
-    "usableArea": 82,
-    "usableAreaTo": null,
-    "primaryArea": null,
-    "primaryAreaTo": null
-   },
-   "images": [
-    "https://images.finncdn.no/dynamic/1600w/2026/11/vertical-2/06/4/480/395/074_6ceb2cbf-be83-4ce2-ab30-3f07281d6036.jpg",
-    "https://images.finncdn.no/dynamic/1600w/2026/11/vertical-2/06/4/480/395/074_cd48618f-a601-4c48-a2e5-4c73dbdb7908.jpg",
-    "https://images.finncdn.no/dynamic/1600w/2026/11/vertical-2/06/4/480/395/074_13a20f92-3cf4-4409-af24-967c2ec62781.jpg",
-    "https://images.finncdn.no/dynamic/1600w/2026/11/vertical-2/06/4/480/395/074_bba8b5f0-6ed3-47e2-9260-cf31ed2f17db.jpg"
    ]
   },
   {
@@ -2112,6 +2078,40 @@
  ],
  "sold": [
   {
+   "estateId": "131661",
+   "assignmentNumber": "92260472",
+   "type": "Leilighet",
+   "ownershipType": "Aksje",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Fuglehauggata 10",
+   "localArea": "Vestkanttorget v/ Frognerparken",
+   "municipalityArea": "Bygdøy - Frogner",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": true,
+   "soldAt": "2026-11-12T09:16:55.625Z",
+   "publishedAt": "2026-11-08T18:45:03.644Z",
+   "prices": {
+    "askingPrice": 8175000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 71,
+    "grossInternalAreaTo": null,
+    "usableArea": 82,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/11/vertical-2/06/4/480/395/074_6ceb2cbf-be83-4ce2-ab30-3f07281d6036.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/11/vertical-2/06/4/480/395/074_cd48618f-a601-4c48-a2e5-4c73dbdb7908.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/11/vertical-2/06/4/480/395/074_13a20f92-3cf4-4409-af24-967c2ec62781.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/11/vertical-2/06/4/480/395/074_bba8b5f0-6ed3-47e2-9260-cf31ed2f17db.jpg"
+   ]
+  },
+  {
    "estateId": "107656",
    "assignmentNumber": "92260129",
    "type": "Leilighet",
@@ -2483,40 +2483,6 @@
     "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/25/3/477/248/623_fba07f7b-0f2c-4c5a-8230-6a7ce9d7d18a.jpg",
     "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/25/3/477/248/623_2e400b73-cd5e-4eb7-9de9-ec92da65293a.jpg",
     "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/25/3/477/248/623_b0f39a15-e8df-4f36-b7f5-6f26d413b621.jpg"
-   ]
-  },
-  {
-   "estateId": "139386",
-   "assignmentNumber": "92260565",
-   "type": "Leilighet",
-   "ownershipType": "Andel",
-   "assignmentType": "Sale",
-   "isProjectMaster": false,
-   "streetAddress": "Armauer Hansens gate 11",
-   "localArea": "Idylliske Lindern Hageby",
-   "municipalityArea": "St. Hanshaugen - Ullevål",
-   "municipalityName": "Oslo",
-   "postalPlace": "Oslo",
-   "sold": true,
-   "soldAt": "2026-11-04T13:43:01.845Z",
-   "publishedAt": "2026-10-16T16:42:09.954Z",
-   "prices": {
-    "askingPrice": 14800000,
-    "askingPriceTo": null
-   },
-   "size": {
-    "grossInternalArea": 111,
-    "grossInternalAreaTo": null,
-    "usableArea": 119,
-    "usableAreaTo": null,
-    "primaryArea": null,
-    "primaryAreaTo": null
-   },
-   "images": [
-    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/16/0/478/856/260_10684f8c-b444-4063-9bca-03ec2b1d7ff9.jpg",
-    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/16/0/478/856/260_b874781a-276d-49d2-9d00-58710ff1ad35.jpg",
-    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/16/0/478/856/260_10796ccf-9e74-43e2-a06c-692b304df100.jpg",
-    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/16/0/478/856/260_94a82d62-0962-4e86-9e68-3b3ce2ce95d8.png"
    ]
   }
  ],
