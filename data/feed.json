@@ -1,7 +1,7 @@
 {
- "fetched_at": "2026-11-12T11:02:49+00:00",
+ "fetched_at": "2026-11-12T13:02:36+00:00",
  "source": "https://privatmegleren.no/aksept",
- "total_for_sale": 61,
+ "total_for_sale": 60,
  "for_sale": [
   {
    "estateId": "137624",
@@ -1328,40 +1328,6 @@
    ]
   },
   {
-   "estateId": "121384",
-   "assignmentNumber": "92260311",
-   "type": "Leilighet",
-   "ownershipType": "Eier (Selveier)",
-   "assignmentType": "Sale",
-   "isProjectMaster": false,
-   "streetAddress": "Bøgata 25 B",
-   "localArea": "KAMPEN",
-   "municipalityArea": "Gamle Oslo",
-   "municipalityName": "Oslo",
-   "postalPlace": "Oslo",
-   "sold": false,
-   "soldAt": null,
-   "publishedAt": "2026-09-20T15:37:07.098Z",
-   "prices": {
-    "askingPrice": 6720000,
-    "askingPriceTo": null
-   },
-   "size": {
-    "grossInternalArea": 61,
-    "grossInternalAreaTo": null,
-    "usableArea": 61,
-    "usableAreaTo": null,
-    "primaryArea": null,
-    "primaryAreaTo": null
-   },
-   "images": [
-    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/20/1/463/553/931_d94047fd-e91f-4ba0-8191-0e171d268e23.jpg",
-    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/20/1/463/553/931_7e369d4d-6ac1-4b9c-bdc3-45a5c72147dc.jpg",
-    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/20/1/463/553/931_147cdde2-4eae-443a-a28d-58ea366a74bf.jpg",
-    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/20/1/463/553/931_551ee5d3-771c-4835-9467-5c3f151daf8b.jpg"
-   ]
-  },
-  {
    "estateId": "3809828",
    "assignmentNumber": "92240523",
    "type": "Enebolig",
@@ -2078,6 +2044,40 @@
  ],
  "sold": [
   {
+   "estateId": "121384",
+   "assignmentNumber": "92260311",
+   "type": "Leilighet",
+   "ownershipType": "Eier (Selveier)",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Bøgata 25 B",
+   "localArea": "KAMPEN",
+   "municipalityArea": "Gamle Oslo",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": true,
+   "soldAt": "2026-11-12T12:14:50.465Z",
+   "publishedAt": "2026-09-20T15:37:07.098Z",
+   "prices": {
+    "askingPrice": 6720000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 61,
+    "grossInternalAreaTo": null,
+    "usableArea": 61,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/20/1/463/553/931_d94047fd-e91f-4ba0-8191-0e171d268e23.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/20/1/463/553/931_7e369d4d-6ac1-4b9c-bdc3-45a5c72147dc.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/20/1/463/553/931_147cdde2-4eae-443a-a28d-58ea366a74bf.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/9/vertical-2/20/1/463/553/931_551ee5d3-771c-4835-9467-5c3f151daf8b.jpg"
+   ]
+  },
+  {
    "estateId": "131661",
    "assignmentNumber": "92260472",
    "type": "Leilighet",
@@ -2449,40 +2449,6 @@
     "https://images.finncdn.no/dynamic/1600w/2026/11/vertical-2/01/4/480/075/274_9a6f17af-40d7-4061-971d-64dcf310988c.jpg",
     "https://images.finncdn.no/dynamic/1600w/2026/11/vertical-2/01/4/480/075/274_53fc4b82-5e5b-44ab-af5f-6350a0b0c75e.jpg",
     "https://images.finncdn.no/dynamic/1600w/2026/11/vertical-2/01/4/480/075/274_8ac1371e-67c8-40b4-bf24-3acd87b5aea5.jpg"
-   ]
-  },
-  {
-   "estateId": "123423",
-   "assignmentNumber": "92260476",
-   "type": "Leilighet",
-   "ownershipType": "Andel",
-   "assignmentType": "Sale",
-   "isProjectMaster": false,
-   "streetAddress": "Hansteens gate 7B",
-   "localArea": "Frogner/Vika",
-   "municipalityArea": "Bygdøy - Frogner",
-   "municipalityName": "Oslo",
-   "postalPlace": "Oslo",
-   "sold": true,
-   "soldAt": "2026-11-05T07:59:04.841Z",
-   "publishedAt": "2026-10-25T18:45:26.893Z",
-   "prices": {
-    "askingPrice": 8790000,
-    "askingPriceTo": null
-   },
-   "size": {
-    "grossInternalArea": 88,
-    "grossInternalAreaTo": null,
-    "usableArea": 95,
-    "usableAreaTo": null,
-    "primaryArea": null,
-    "primaryAreaTo": null
-   },
-   "images": [
-    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/25/3/477/248/623_53f6690b-9302-47ee-8906-bcd5926735ff.jpg",
-    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/25/3/477/248/623_fba07f7b-0f2c-4c5a-8230-6a7ce9d7d18a.jpg",
-    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/25/3/477/248/623_2e400b73-cd5e-4eb7-9de9-ec92da65293a.jpg",
-    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/25/3/477/248/623_b0f39a15-e8df-4f36-b7f5-6f26d413b621.jpg"
    ]
   }
  ],
