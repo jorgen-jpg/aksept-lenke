@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-12T10:02:42+00:00",
+ "fetched_at": "2026-11-12T11:02:49+00:00",
  "source": "https://privatmegleren.no/aksept",
  "total_for_sale": 61,
  "for_sale": [
@@ -1445,7 +1445,7 @@
    "soldAt": null,
    "publishedAt": "2026-09-10T12:20:00.000Z",
    "prices": {
-    "askingPrice": 7500000,
+    "askingPrice": 7200000,
     "askingPriceTo": null
    },
    "size": {
@@ -1457,10 +1457,10 @@
     "primaryAreaTo": null
    },
    "images": [
-    "https://images.finncdn.no/dynamic/1600w/2026/4/vertical-2/12/8/337/726/118_a4d7a72c-abe8-478e-b48c-178be6aa6ed8.jpg",
-    "https://images.finncdn.no/dynamic/1600w/2026/4/vertical-2/12/8/337/726/118_9f3438ac-1932-48cc-a0fd-bc43b6a8c415.jpg",
-    "https://images.finncdn.no/dynamic/1600w/2026/4/vertical-2/12/8/337/726/118_766b6adf-ce70-4134-9f6d-52fe875663a8.jpg",
-    "https://images.finncdn.no/dynamic/1600w/2026/4/vertical-2/12/8/337/726/118_5651bc07-1d2f-4cde-99ae-398c9bb382a3.jpg"
+    "https://rt-gateway.reeltime.no/proxy/webmegler/120/3658416/wngetbilde.ashx?/abilde/k120/f%5Cbilder%5C2024%5C36%5C5%5C11593077_1-tmlreb1.jpg&v=1",
+    "https://rt-gateway.reeltime.no/proxy/webmegler/120/3658416/wngetbilde.ashx?/abilde/k120/f%5Cbilder%5C2024%5C36%5C5%5C11593071_1-wvozkb1.jpg&v=1",
+    "https://rt-gateway.reeltime.no/proxy/webmegler/120/3658416/wngetbilde.ashx?/abilde/k120/f%5Cbilder%5C2024%5C36%5C5%5C11593074_1-rxqvsb1.jpg&v=1",
+    "https://rt-gateway.reeltime.no/proxy/webmegler/120/3658416/wngetbilde.ashx?/abilde/k120/f%5Cbilder%5C2024%5C36%5C5%5C11593056_1-rwavfb1.jpg&v=1"
    ]
   },
   {
