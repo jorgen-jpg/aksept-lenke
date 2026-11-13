@@ -1,8 +1,42 @@
 {
- "fetched_at": "2026-11-13T08:02:38+00:00",
+ "fetched_at": "2026-11-13T11:02:46+00:00",
  "source": "https://privatmegleren.no/aksept",
- "total_for_sale": 61,
+ "total_for_sale": 62,
  "for_sale": [
+  {
+   "estateId": "142514",
+   "assignmentNumber": "92260595",
+   "type": "Leilighet",
+   "ownershipType": "Eier (Selveier)",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Fagerborggata 50 A",
+   "localArea": "Fagerborg / Adamstuen",
+   "municipalityArea": "Uranienborg - Majorstuen",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-11-13T10:16:03.179Z",
+   "prices": {
+    "askingPrice": 9200000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 79,
+    "grossInternalAreaTo": null,
+    "usableArea": 82,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://rt-gateway.reeltime.no/proxy/webtop/pm/142514/image/9af26b91-8f36-4afc-b74e-2e9f7317a570/Large",
+    "https://rt-gateway.reeltime.no/proxy/webtop/pm/142514/image/c44caa7e-ed6d-4339-9d68-2c87dce940e0/Large",
+    "https://rt-gateway.reeltime.no/proxy/webtop/pm/142514/image/659552c7-871f-42e4-8ad2-e66437353327/Large",
+    "https://rt-gateway.reeltime.no/proxy/webtop/pm/142514/image/4007993f-8776-4c78-92fe-82fa0e7f8907/Large"
+   ]
+  },
   {
    "estateId": "108515",
    "assignmentNumber": "92260599",
@@ -541,10 +575,10 @@
     "primaryAreaTo": null
    },
    "images": [
-    "https://rt-gateway.reeltime.no/proxy/webmegler/120/3838001/wngetbilde.ashx?/abilde/k120/f%5Cbilder%5C2025%5C36%5C7%5C12567960_1-kxepcb1.jpg&v=1",
-    "https://rt-gateway.reeltime.no/proxy/webmegler/120/3838001/wngetbilde.ashx?/abilde/k120/f%5Cbilder%5C2025%5C36%5C7%5C12564793_2-uxreab1.jpg&v=1",
-    "https://rt-gateway.reeltime.no/proxy/webmegler/120/3838001/wngetbilde.ashx?/abilde/k120/f%5Cbilder%5C2025%5C36%5C7%5C12564795_1-owrotb1.jpg&v=1",
-    "https://rt-gateway.reeltime.no/proxy/webmegler/120/3838001/wngetbilde.ashx?/abilde/k120/f%5Cbilder%5C2025%5C36%5C7%5C12564321_1-fyqcub1.jpg&v=1"
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/31/0/415/624/320_6bfe904c-6cfd-434c-8263-7389e28a0499.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/31/0/415/624/320_bac42238-839b-4e0a-8acf-1fa013a42162.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/31/0/415/624/320_d5b37616-9d03-40cd-bc80-2c4af03bf69c.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/31/0/415/624/320_0c5a577d-92b2-426a-b8e4-172dfd609342.jpg"
    ]
   },
   {
@@ -1661,10 +1695,10 @@
     "primaryAreaTo": null
    },
    "images": [
-    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/20/0/456/630/790_2b246f29-0d2b-4990-ac70-26ed9c00e490.jpg",
-    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/20/0/456/630/790_867bbb3e-bf3a-438d-8bcf-b610c4cdd549.jpg",
-    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/20/0/456/630/790_d7f6b56c-0931-4a04-9c4b-79646daf32fa.jpg",
-    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/20/0/456/630/790_dfa2b3be-f5b0-449f-b849-ae94315156f1.jpg"
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/31/0/456/630/790_d1e5e6e3-2c88-4445-998d-07e2250c86c7.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/31/0/456/630/790_858b5119-bc7e-4a0d-982e-59b5f61462c4.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/31/0/456/630/790_01756f03-cb03-4a8d-8212-4483c1c4fff9.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/31/0/456/630/790_b4682994-9e97-4d9c-8b6b-4abb51167eef.jpg"
    ]
   },
   {
@@ -1717,7 +1751,7 @@
    "soldAt": null,
    "publishedAt": "2026-07-10T11:50:00.000Z",
    "prices": {
-    "askingPrice": 2490000,
+    "askingPrice": 2390000,
     "askingPriceTo": null
    },
    "size": {
@@ -1729,10 +1763,10 @@
     "primaryAreaTo": null
    },
    "images": [
-    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/20/0/469/439/930_6f573215-1581-40ee-bb8a-a9ded28955d5.jpg",
-    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/20/0/469/439/930_db09e65b-9d63-4897-8fc8-830bd3b240d8.jpg",
-    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/20/0/469/439/930_560a1dc3-8c32-4620-86ea-c46e04fda298.jpg",
-    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/20/0/469/439/930_2cfeef81-83bd-40b7-b802-170c9fcd21a7.jpg"
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/31/0/469/439/930_31393103-3479-4cc8-920d-98ca35d603dc.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/31/0/469/439/930_3a4103d6-16a6-4864-8274-d64f1868cc68.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/31/0/469/439/930_bdd037bd-ac55-4345-a3b3-5138241466ca.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/31/0/469/439/930_3afee08d-02ac-4074-a7c5-fa252a9caa17.jpg"
    ]
   },
   {
