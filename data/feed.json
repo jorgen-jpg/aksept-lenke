@@ -1,8 +1,42 @@
 {
- "fetched_at": "2026-11-13T12:02:47+00:00",
+ "fetched_at": "2026-11-13T13:03:15+00:00",
  "source": "https://privatmegleren.no/aksept",
- "total_for_sale": 62,
+ "total_for_sale": 63,
  "for_sale": [
+  {
+   "estateId": "141383",
+   "assignmentNumber": "92260578",
+   "type": "Leilighet",
+   "ownershipType": "Eier (Selveier)",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Geitmyrsveien 7 D",
+   "localArea": "St. Hanshaugen",
+   "municipalityArea": "St. Hanshaugen - Ullevål",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-11-13T12:24:15.861Z",
+   "prices": {
+    "askingPrice": 14600000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 72,
+    "grossInternalAreaTo": null,
+    "usableArea": 78,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/30/9/479/910/559_97d2fdc8-ddd8-4929-8205-303e73527d1f.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/30/9/479/910/559_0ad3c3bd-2ea6-43a6-8ad5-2da4d7ddde57.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/30/9/479/910/559_71de2a17-2faf-4531-8067-6308cc9f9baf.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/30/9/479/910/559_d2c466d8-2b0d-470a-b1cb-e9534d34e3a2.jpg"
+   ]
+  },
   {
    "estateId": "142514",
    "assignmentNumber": "92260595",
@@ -31,10 +65,10 @@
     "primaryAreaTo": null
    },
    "images": [
-    "https://rt-gateway.reeltime.no/proxy/webtop/pm/142514/image/9af26b91-8f36-4afc-b74e-2e9f7317a570/Large",
-    "https://rt-gateway.reeltime.no/proxy/webtop/pm/142514/image/c44caa7e-ed6d-4339-9d68-2c87dce940e0/Large",
-    "https://rt-gateway.reeltime.no/proxy/webtop/pm/142514/image/659552c7-871f-42e4-8ad2-e66437353327/Large",
-    "https://rt-gateway.reeltime.no/proxy/webtop/pm/142514/image/4007993f-8776-4c78-92fe-82fa0e7f8907/Large"
+    "https://images.finncdn.no/dynamic/1600w/2026/11/vertical-2/13/0/480/876/120_77c0952e-37a0-4854-91bb-267b87bac6d5.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/11/vertical-2/13/0/480/876/120_a5640901-df56-4091-a17d-6d72c743467e.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/11/vertical-2/13/0/480/876/120_2ae3f682-d808-406a-9728-f105d9baeb8b.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/11/vertical-2/13/0/480/876/120_1dfb957b-2b36-462a-8511-2414396d03f1.jpg"
    ]
   },
   {
