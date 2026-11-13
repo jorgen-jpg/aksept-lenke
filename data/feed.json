@@ -1,8 +1,42 @@
 {
- "fetched_at": "2026-11-13T05:02:41+00:00",
+ "fetched_at": "2026-11-13T08:02:38+00:00",
  "source": "https://privatmegleren.no/aksept",
- "total_for_sale": 60,
+ "total_for_sale": 61,
  "for_sale": [
+  {
+   "estateId": "108515",
+   "assignmentNumber": "92260599",
+   "type": "Leilighet",
+   "ownershipType": "Eier (Selveier)",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Akersveien 24F",
+   "localArea": "Egebergslottet på St. Hanshaugen",
+   "municipalityArea": "St. Hanshaugen - Ullevål",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-11-13T08:00:12.382Z",
+   "prices": {
+    "askingPrice": 11490000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 93,
+    "grossInternalAreaTo": null,
+    "usableArea": 97,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://rt-gateway.reeltime.no/proxy/webtop/pm/108515/image/be2d94a1-7320-42ed-b938-025d5d7812a6/Large",
+    "https://rt-gateway.reeltime.no/proxy/webtop/pm/108515/image/ab5b1e49-a7bf-4dc4-85c9-49591ad8cfaf/Large",
+    "https://rt-gateway.reeltime.no/proxy/webtop/pm/108515/image/b02c588d-db21-4928-998b-db09ba580251/Large",
+    "https://rt-gateway.reeltime.no/proxy/webtop/pm/108515/image/e10b35b2-8ace-4f19-aded-7c2eb431df64/Large"
+   ]
+  },
   {
    "estateId": "137624",
    "assignmentNumber": "92260563",
