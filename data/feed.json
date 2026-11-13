@@ -1,8 +1,42 @@
 {
- "fetched_at": "2026-11-13T17:02:39+00:00",
+ "fetched_at": "2026-11-13T18:02:57+00:00",
  "source": "https://privatmegleren.no/aksept",
- "total_for_sale": 64,
+ "total_for_sale": 65,
  "for_sale": [
+  {
+   "estateId": "145123",
+   "assignmentNumber": "92260626",
+   "type": "Leilighet",
+   "ownershipType": "Eier (Selveier)",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Frognerveien 10",
+   "localArea": "Frogner Atrium",
+   "municipalityArea": "Bygdøy - Frogner",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-11-13T17:43:01.192Z",
+   "prices": {
+    "askingPrice": 12490000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 109,
+    "grossInternalAreaTo": null,
+    "usableArea": 113,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://rt-gateway.reeltime.no/proxy/webtop/pm/145123/image/97a2d341-e5ee-4649-bfd2-89c412a86638/Large",
+    "https://rt-gateway.reeltime.no/proxy/webtop/pm/145123/image/b6955e7f-da22-4c47-8d3a-600b0341375e/Large",
+    "https://rt-gateway.reeltime.no/proxy/webtop/pm/145123/image/2a76e65e-5b16-44c2-b587-df9226b097c4/Large",
+    "https://rt-gateway.reeltime.no/proxy/webtop/pm/145123/image/2db36aa4-73d5-42d7-80ff-312ae24e937a/Large"
+   ]
+  },
   {
    "estateId": "96085",
    "assignmentNumber": "92251014",
