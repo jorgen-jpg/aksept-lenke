@@ -1,8 +1,42 @@
 {
- "fetched_at": "2026-11-13T15:02:40+00:00",
+ "fetched_at": "2026-11-13T16:02:50+00:00",
  "source": "https://privatmegleren.no/aksept",
- "total_for_sale": 63,
+ "total_for_sale": 64,
  "for_sale": [
+  {
+   "estateId": "96085",
+   "assignmentNumber": "92251014",
+   "type": "Leilighet",
+   "ownershipType": "Eier (Selveier)",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Sandakerveien 74A",
+   "localArea": "Sandaker/Storo",
+   "municipalityArea": "Sagene - Torshov",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-11-13T15:23:28.831Z",
+   "prices": {
+    "askingPrice": 7250000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 72,
+    "grossInternalAreaTo": null,
+    "usableArea": 77,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/30/3/448/640/173_2222140d-ba85-4761-b19f-fad968d68249.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/1/vertical-2/30/3/448/640/173_12f25739-b3f2-4125-b003-8dfaf91d819e.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/30/3/448/640/173_b923a826-8cc8-4a2f-9f44-9139009cbd09.jpg",
+    "https://images.finncdn.no/dynamic/1600w/2026/10/vertical-2/30/3/448/640/173_00e52857-adb9-4f41-b34b-2f3daf0f4ce5.jpg"
+   ]
+  },
   {
    "estateId": "141383",
    "assignmentNumber": "92260578",
@@ -2606,7 +2640,7 @@
     "title": "Eiendomsmegler MNEF / Fagansvarlig  / Partner",
     "employeeAlias": "eva-lotsberg",
     "email": "eva.lotsberg@privatmegleren.no",
-    "mobilePhone": "93833965",
+    "mobilePhone": "+4793833965",
     "workPhone": null,
     "image": "https://proxy.reeltime.no/image/broker/638"
    },
