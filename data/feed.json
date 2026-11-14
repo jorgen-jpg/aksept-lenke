@@ -1,8 +1,42 @@
 {
- "fetched_at": "2026-11-14T08:02:45+00:00",
+ "fetched_at": "2026-11-14T09:02:34+00:00",
  "source": "https://privatmegleren.no/aksept",
- "total_for_sale": 65,
+ "total_for_sale": 66,
  "for_sale": [
+  {
+   "estateId": "144308",
+   "assignmentNumber": "92260613",
+   "type": "Leilighet",
+   "ownershipType": "Eier (Selveier)",
+   "assignmentType": "Sale",
+   "isProjectMaster": false,
+   "streetAddress": "Sofies gate 79 A",
+   "localArea": "Bolteløkka/Adamstuen",
+   "municipalityArea": "St. Hanshaugen - Ullevål",
+   "municipalityName": "Oslo",
+   "postalPlace": "Oslo",
+   "sold": false,
+   "soldAt": null,
+   "publishedAt": "2026-11-14T08:28:01.584Z",
+   "prices": {
+    "askingPrice": 9690000,
+    "askingPriceTo": null
+   },
+   "size": {
+    "grossInternalArea": 84,
+    "grossInternalAreaTo": null,
+    "usableArea": 91,
+    "usableAreaTo": null,
+    "primaryArea": null,
+    "primaryAreaTo": null
+   },
+   "images": [
+    "https://rt-gateway.reeltime.no/proxy/webtop/pm/144308/image/20ebe1d0-86c4-478b-9c18-c3b88f30ab6f/Large",
+    "https://rt-gateway.reeltime.no/proxy/webtop/pm/144308/image/da82999b-2815-4e4d-88c2-d990c007fa4c/Large",
+    "https://rt-gateway.reeltime.no/proxy/webtop/pm/144308/image/d24b9ead-789d-4a9e-adad-00ff23dd1892/Large",
+    "https://rt-gateway.reeltime.no/proxy/webtop/pm/144308/image/96a53f36-ac87-44f2-9b56-2fd65f8971c3/Large"
+   ]
+  },
   {
    "estateId": "145123",
    "assignmentNumber": "92260626",
